@@ -1,0 +1,93 @@
+[
+  {
+    "gender": "MALE",
+    "name": "STYLIST BI",
+    "services": [
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 300,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST DUY",
+    "services": [
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 294,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST MINH",
+    "services": [
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 262,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST CRIS",
+    "services": [
+      {
+        "name": "CẮT TÓC NAM  HAIR DESIGNER YC",
+        "commission": 4840000,
+        "count": 108,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST ĐỨC",
+    "services": [
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 77,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST ANH TÚ",
+    "services": [
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 74,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true
+  },
+  {
+    "gender": "MALE",
+    "name": "TRƯỜNG HOT STYLIST",
+    "services": [
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 64,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true
+  }
+]

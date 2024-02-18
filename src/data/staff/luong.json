@@ -1,0 +1,20 @@
+[
+  { "name": "LÊ THỊ MAI", "salary": 462768705, "revenue": 5195656139 },
+  { "name": "NGUYỄN THỊ HẠNH", "salary": 359437020, "revenue": 3190144985 },
+  { "name": "DIỆP CẨM HẰNG", "salary": 272378200, "revenue": 2122323230 },
+  { "name": "TRẦN THỊ TƯỜNG VI", "salary": 272313810, "revenue": 2361626315 },
+  { "name": "NGUYỄN NGỌC TIỀN", "salary": 264775250, "revenue": 2388610921 },
+  { "name": "LÊ THỊ ĐANG THANH", "salary": 263497250, "revenue": 2075300063 },
+  { "name": "TRẦN THỊ NHƯ MAI", "salary": 256084681, "revenue": 2183187207 },
+  {
+    "name": "NGUYỄN THỊ TRÚC LINH",
+    "salary": 220213500,
+    "revenue": 1762763571
+  },
+  { "name": "LÝ KIM LỘC", "salary": 184618170, "revenue": 1917090313 },
+  {
+    "name": "TRẦN THỊ BÍCH LIỄU",
+    "salary": 136849198.38709676,
+    "revenue": 2035142958
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "4021609275411",
+    "count": 127,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 43,
+      "memberCardDiscount": 332500,
+      "revenue": 14514500,
+      "revenueAfterDiscount": 14847000,
+      "revenueBeforeDiscount": 15050000
+    },
+    "female": {
+      "count": 84,
+      "memberCardDiscount": 2305500,
+      "revenue": 26248111.11,
+      "revenueAfterDiscount": 28553611.11,
+      "revenueBeforeDiscount": 29275000
+    },
+    "name": "GW-KEM TẠO KIỂU ROUGHMAN 4 GOLDWELL 100ML",
+    "revenueBeforeDiscount": 44325000,
+    "revenueAfterDiscount": 43400611.11,
+    "memberCardDiscount": 2638000,
+    "revenue": 40762611.11
+  },
+  {
+    "id": "633911641064",
+    "count": 28,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 9,
+      "memberCardDiscount": 0,
+      "revenue": 6157800,
+      "revenueAfterDiscount": 6157800,
+      "revenueBeforeDiscount": 6408000
+    },
+    "female": {
+      "count": 19,
+      "memberCardDiscount": 951800,
+      "revenue": 11893480,
+      "revenueAfterDiscount": 12845280,
+      "revenueBeforeDiscount": 13458000
+    },
+    "name": "CHI-XỊT TẠO KIỂU CHI HELMET HEAD 284G",
+    "revenueBeforeDiscount": 19866000,
+    "revenueAfterDiscount": 19003080,
+    "memberCardDiscount": 951800,
+    "revenue": 18051280
+  },
+  {
+    "id": "4021609275336",
+    "count": 30,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 8,
+      "memberCardDiscount": 332500,
+      "revenue": 2432500,
+      "revenueAfterDiscount": 2765000,
+      "revenueBeforeDiscount": 2800000
+    },
+    "female": {
+      "count": 22,
+      "memberCardDiscount": 38000,
+      "revenue": 7546500,
+      "revenueAfterDiscount": 7584500,
+      "revenueBeforeDiscount": 7700000
+    },
+    "name": "GW-KEO XỊT SPRAYER 5 GOLDWELL 300ML",
+    "revenueBeforeDiscount": 10500000,
+    "revenueAfterDiscount": 10349500,
+    "memberCardDiscount": 370500,
+    "revenue": 9979000
+  },
+  {
+    "id": "018084850930",
+    "count": 12,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 5,
+      "memberCardDiscount": 0,
+      "revenue": 4128000,
+      "revenueAfterDiscount": 4128000,
+      "revenueBeforeDiscount": 4300000
+    },
+    "female": {
+      "count": 7,
+      "memberCardDiscount": 817000,
+      "revenue": 4145200,
+      "revenueAfterDiscount": 4962200,
+      "revenueBeforeDiscount": 6020000
+    },
+    "name": "DẦU GỘI  NAM AVEDA  PURE FORMANCE 300ML",
+    "revenueBeforeDiscount": 10320000,
+    "revenueAfterDiscount": 9090200,
+    "memberCardDiscount": 817000,
+    "revenue": 8273200
+  },
+  {
+    "id": "074469523042",
+    "count": 49,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 5,
+      "memberCardDiscount": 0,
+      "revenue": 2691000,
+      "revenueAfterDiscount": 2691000,
+      "revenueBeforeDiscount": 2900000
+    },
+    "female": {
+      "count": 44,
+      "memberCardDiscount": 533600,
+      "revenue": 21935600,
+      "revenueAfterDiscount": 22469200,
+      "revenueBeforeDiscount": 24940000
+    },
+    "name": "HAIR SHAKE- xịt tạo kiểu tăng phồng 150ml",
+    "revenueBeforeDiscount": 27840000,
+    "revenueAfterDiscount": 25160200,
+    "memberCardDiscount": 533600,
+    "revenue": 24626600
+  },
+  {
+    "id": "852578006010",
+    "count": 13,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 5,
+      "memberCardDiscount": 0,
+      "revenue": 2401000,
+      "revenueAfterDiscount": 2401000,
+      "revenueBeforeDiscount": 2401000
+    },
+    "female": {
+      "count": 8,
+      "memberCardDiscount": 432390,
+      "revenue": 3437000,
+      "revenueAfterDiscount": 3869390,
+      "revenueBeforeDiscount": 3934000
+    },
+    "name": "SÁP BLUE POMADE STRONG HOLD  REUZEL -113G",
+    "revenueBeforeDiscount": 6335000,
+    "revenueAfterDiscount": 6270390,
+    "memberCardDiscount": 432390,
+    "revenue": 5838000
+  },
+  {
+    "id": "014926411437",
+    "count": 203,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 4468800,
+      "revenueAfterDiscount": 4468800,
+      "revenueBeforeDiscount": 4560000
+    },
+    "female": {
+      "count": 199,
+      "memberCardDiscount": 8632400,
+      "revenue": 211802881.8,
+      "revenueAfterDiscount": 220435281.8,
+      "revenueBeforeDiscount": 226311000
+    },
+    "name": "Myhero X2 Kem làm mềm&hàn gắn biểu bì tóc, bổ sung Collagen 414ml",
+    "revenueBeforeDiscount": 230871000,
+    "revenueAfterDiscount": 224904081.8,
+    "memberCardDiscount": 8632400,
+    "revenue": 216271681.8
+  },
+  {
+    "id": "896364002435",
+    "count": 43,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 2512300,
+      "revenueAfterDiscount": 2512300,
+      "revenueBeforeDiscount": 2716000
+    },
+    "female": {
+      "count": 39,
+      "memberCardDiscount": 645050,
+      "revenue": 24799890,
+      "revenueAfterDiscount": 25444940,
+      "revenueBeforeDiscount": 26219000
+    },
+    "name": "OLL-DẦU XẢ OLAPLEX (NO.5 BOND)250ML",
+    "revenueBeforeDiscount": 28935000,
+    "revenueAfterDiscount": 27957240,
+    "memberCardDiscount": 645050,
+    "revenue": 27312190
+  },
+  {
+    "id": "615908431339",
+    "count": 29,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 2082400,
+      "revenueAfterDiscount": 2082400,
+      "revenueBeforeDiscount": 2192000
+    },
+    "female": {
+      "count": 25,
+      "memberCardDiscount": 280000,
+      "revenue": 12647320,
+      "revenueAfterDiscount": 12927320,
+      "revenueBeforeDiscount": 13700000
+    },
+    "name": "TIGI-TIGI BED HEAD SMALL TALK 240G",
+    "revenueBeforeDiscount": 15892000,
+    "revenueAfterDiscount": 15009720,
+    "memberCardDiscount": 280000,
+    "revenue": 14729720
+  },
+  {
+    "id": "3474636645800",
+    "count": 46,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 5883000,
+      "revenueAfterDiscount": 5883000,
+      "revenueBeforeDiscount": 6360000
+    },
+    "female": {
+      "count": 42,
+      "memberCardDiscount": 2893800,
+      "revenue": 60057649.25,
+      "revenueAfterDiscount": 62951449.25,
+      "revenueBeforeDiscount": 69980000
+    },
+    "name": "LR-TINH CHẤT KÍCH THÍCH MỌC TÓC LOREAL 90ML",
+    "revenueBeforeDiscount": 76340000,
+    "revenueAfterDiscount": 68834449.25,
+    "memberCardDiscount": 2893800,
+    "revenue": 65940649.25
+  }
+]

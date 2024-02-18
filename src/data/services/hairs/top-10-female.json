@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NMNTLV",
+    "count": 3794,
+    "type": "SERVICE",
+    "staffCommissions": [412500],
+    "staffNames": ["THANH THANH"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 3794,
+      "memberCardDiscount": 8480000,
+      "revenue": 78056029.41,
+      "revenueAfterDiscount": 86536029.41,
+      "revenueBeforeDiscount": 94600000
+    },
+    "name": "NÂNG MỐI NỐI TÓC LÔNG VŨ",
+    "revenueBeforeDiscount": 94600000,
+    "revenueAfterDiscount": 86536029.41,
+    "memberCardDiscount": 8480000,
+    "revenue": 78056029.41,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "YCN",
+    "count": 2503,
+    "type": "SERVICE",
+    "staffCommissions": [20000],
+    "staffNames": ["HUỆ"],
+    "male": {
+      "count": 37,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 2466,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "name": "KHÁCH YC NỮ",
+    "revenueBeforeDiscount": 0,
+    "revenueAfterDiscount": 0,
+    "memberCardDiscount": 0,
+    "revenue": 0,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "60NOILONGT",
+    "count": 2235,
+    "type": "SERVICE",
+    "staffCommissions": [90000],
+    "staffNames": ["MAI"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 2235,
+      "memberCardDiscount": 504000,
+      "revenue": 175603000,
+      "revenueAfterDiscount": 176107000,
+      "revenueBeforeDiscount": 200160000
+    },
+    "name": "NỐI TÓC TẨY  LÔNG VŨ 60CM",
+    "revenueBeforeDiscount": 200160000,
+    "revenueAfterDiscount": 176107000,
+    "memberCardDiscount": 504000,
+    "revenue": 175603000,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "X2 COLLAGEN",
+    "count": 2080,
+    "type": "SERVICE",
+    "staffCommissions": [38500],
+    "staffNames": ["Tiền TT"],
+    "male": {
+      "count": 98,
+      "memberCardDiscount": 2700000,
+      "revenue": 9669930.92,
+      "revenueAfterDiscount": 12369930.92,
+      "revenueBeforeDiscount": 26600000
+    },
+    "female": {
+      "count": 1982,
+      "memberCardDiscount": 180171239.39,
+      "revenue": 374179340.9,
+      "revenueAfterDiscount": 554350580.2900001,
+      "revenueBeforeDiscount": 657000000
+    },
+    "name": "X2 COLLAGEN MYDENTITY VỪA / DÀI",
+    "revenueBeforeDiscount": 683600000,
+    "revenueAfterDiscount": 566720511.2100002,
+    "memberCardDiscount": 182871239.39,
+    "revenue": 383849271.82,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "GOD",
+    "count": 1744,
+    "type": "SERVICE",
+    "staffCommissions": [58800],
+    "staffNames": ["MỸ"],
+    "male": {
+      "count": 19,
+      "memberCardDiscount": 0,
+      "revenue": 4392000,
+      "revenueAfterDiscount": 4392000,
+      "revenueBeforeDiscount": 5420000
+    },
+    "female": {
+      "count": 1725,
+      "memberCardDiscount": 65380000,
+      "revenue": 335596217.32000005,
+      "revenueAfterDiscount": 400976217.32,
+      "revenueBeforeDiscount": 483650000
+    },
+    "name": "GỘI XẢ OLAPLEX TÓC DÀI",
+    "revenueBeforeDiscount": 489070000,
+    "revenueAfterDiscount": 405368217.32,
+    "memberCardDiscount": 65380000,
+    "revenue": 339988217.32000005,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "TẨY TBC DA ĐẦU",
+    "count": 1825,
+    "type": "SERVICE",
+    "staffCommissions": [28600],
+    "staffNames": ["MAI MAI"],
+    "male": {
+      "count": 157,
+      "memberCardDiscount": 3540000,
+      "revenue": 19195930.92,
+      "revenueAfterDiscount": 22735930.92,
+      "revenueBeforeDiscount": 39750000
+    },
+    "female": {
+      "count": 1668,
+      "memberCardDiscount": 87840000,
+      "revenue": 283141319.96999997,
+      "revenueAfterDiscount": 370981319.96999997,
+      "revenueBeforeDiscount": 421290000
+    },
+    "name": "TẨY TBC DA ĐẦU",
+    "revenueBeforeDiscount": 461040000,
+    "revenueAfterDiscount": 393717250.89,
+    "memberCardDiscount": 91380000,
+    "revenue": 302337250.89,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "BẢO VỆ DA ĐẦU",
+    "count": 1687,
+    "type": "SERVICE",
+    "staffCommissions": [55000],
+    "staffNames": ["HẠNH"],
+    "male": {
+      "count": 86,
+      "memberCardDiscount": 5000000,
+      "revenue": 18569861.83,
+      "revenueAfterDiscount": 23569861.83,
+      "revenueBeforeDiscount": 43000000
+    },
+    "female": {
+      "count": 1601,
+      "memberCardDiscount": 240622293.02,
+      "revenue": 449357076.81,
+      "revenueAfterDiscount": 689979369.8299999,
+      "revenueBeforeDiscount": 800160000
+    },
+    "name": "BẢO VỆ DA ĐẦU NARAXIS ESENZA ( của Ý)",
+    "revenueBeforeDiscount": 843160000,
+    "revenueAfterDiscount": 713549231.6599998,
+    "memberCardDiscount": 245622293.02,
+    "revenue": 467926938.64,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "20%",
+    "count": 1449,
+    "type": "SERVICE",
+    "staffCommissions": [20000],
+    "staffNames": ["Tiền TT"],
+    "male": {
+      "count": 65,
+      "memberCardDiscount": 2730000,
+      "revenue": 8086177.89,
+      "revenueAfterDiscount": 10816177.89,
+      "revenueBeforeDiscount": 21690000
+    },
+    "female": {
+      "count": 1384,
+      "memberCardDiscount": 194080384.66,
+      "revenue": 372831142.41999996,
+      "revenueAfterDiscount": 566911527.08,
+      "revenueBeforeDiscount": 643108000
+    },
+    "name": "OLAPLEX  BOND + 20%/ DV HÓA CHẤT",
+    "revenueBeforeDiscount": 664798000,
+    "revenueAfterDiscount": 577727704.9699999,
+    "memberCardDiscount": 196810384.66,
+    "revenue": 380917320.30999994,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "50NOILONG",
+    "count": 1144,
+    "type": "SERVICE",
+    "staffCommissions": [1200000],
+    "staffNames": ["NHUNG"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 1144,
+      "memberCardDiscount": 1740000,
+      "revenue": 50700000,
+      "revenueAfterDiscount": 52440000,
+      "revenueBeforeDiscount": 68640000
+    },
+    "name": "NỐI TÓC LÔNG VŨ 50CM",
+    "revenueBeforeDiscount": 68640000,
+    "revenueAfterDiscount": 52440000,
+    "memberCardDiscount": 1740000,
+    "revenue": 50700000,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "CDH",
+    "count": 1067,
+    "type": "SERVICE",
+    "staffCommissions": [50000],
+    "staffNames": ["MỸ", "HẬU"],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 1500000,
+      "revenueAfterDiscount": 1500000,
+      "revenueBeforeDiscount": 2000000
+    },
+    "female": {
+      "count": 1063,
+      "memberCardDiscount": 38409314.769999996,
+      "revenue": 392967007.35,
+      "revenueAfterDiscount": 431376322.12,
+      "revenueBeforeDiscount": 528350000
+    },
+    "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+    "revenueBeforeDiscount": 530350000,
+    "revenueAfterDiscount": 432876322.12,
+    "memberCardDiscount": 38409314.769999996,
+    "revenue": 394467007.35,
+    "serviceName": "HAIR"
+  }
+]

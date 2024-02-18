@@ -1,0 +1,272 @@
+[
+  {
+    "id": "DV11715",
+    "count": 2330,
+    "type": "SERVICE",
+    "staffCommissions": [18000],
+    "staffNames": ["MY MY"],
+    "male": {
+      "count": 103,
+      "memberCardDiscount": 420000,
+      "revenue": 4848000,
+      "revenueAfterDiscount": 5268000,
+      "revenueBeforeDiscount": 6180000
+    },
+    "female": {
+      "count": 2227,
+      "memberCardDiscount": 32722802.21,
+      "revenue": 90700835.77000001,
+      "revenueAfterDiscount": 123423637.98,
+      "revenueBeforeDiscount": 133620000
+    },
+    "name": "CẮT DA TAY /CHÂN",
+    "revenueBeforeDiscount": 139800000,
+    "revenueAfterDiscount": 128691637.98,
+    "memberCardDiscount": 33142802.21,
+    "revenue": 95548835.77000001,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV73450",
+    "count": 1239,
+    "type": "SERVICE",
+    "staffCommissions": [36000],
+    "staffNames": ["MINH NAIL"],
+    "male": {
+      "count": 36,
+      "memberCardDiscount": 900000,
+      "revenue": 4500000,
+      "revenueAfterDiscount": 5400000,
+      "revenueBeforeDiscount": 6380000
+    },
+    "female": {
+      "count": 1203,
+      "memberCardDiscount": 38778805.9,
+      "revenue": 131509250.48,
+      "revenueAfterDiscount": 170288056.38,
+      "revenueBeforeDiscount": 201620000
+    },
+    "name": "SƠN GEL TAY / CHÂN",
+    "revenueBeforeDiscount": 208000000,
+    "revenueAfterDiscount": 175688056.38,
+    "memberCardDiscount": 39678805.9,
+    "revenue": 136009250.48000002,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV690199",
+    "count": 1439,
+    "type": "SERVICE",
+    "staffCommissions": [20000],
+    "staffNames": ["TRÂM NAIL"],
+    "male": {
+      "count": 20,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 400000
+    },
+    "female": {
+      "count": 1419,
+      "memberCardDiscount": 4897000,
+      "revenue": 18316000,
+      "revenueAfterDiscount": 23213000,
+      "revenueBeforeDiscount": 32422000
+    },
+    "name": "TRANG TRÍ",
+    "revenueBeforeDiscount": 32822000,
+    "revenueAfterDiscount": 23213000,
+    "memberCardDiscount": 4897000,
+    "revenue": 18316000,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV355157",
+    "count": 602,
+    "type": "SERVICE",
+    "staffCommissions": [18000],
+    "staffNames": ["MY MY"],
+    "male": {
+      "count": 15,
+      "memberCardDiscount": 0,
+      "revenue": 540000,
+      "revenueAfterDiscount": 540000,
+      "revenueBeforeDiscount": 900000
+    },
+    "female": {
+      "count": 587,
+      "memberCardDiscount": 7890000,
+      "revenue": 23005639.12,
+      "revenueAfterDiscount": 30895639.12,
+      "revenueBeforeDiscount": 35270000
+    },
+    "name": "SƠN DƯỠNG CỨNG MÓNG",
+    "revenueBeforeDiscount": 36170000,
+    "revenueAfterDiscount": 31435639.12,
+    "memberCardDiscount": 7890000,
+    "revenue": 23545639.12,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV73485",
+    "count": 575,
+    "type": "SERVICE",
+    "staffCommissions": [12000],
+    "staffNames": ["MINH NAIL"],
+    "male": {
+      "count": 12,
+      "memberCardDiscount": 0,
+      "revenue": 720000,
+      "revenueAfterDiscount": 720000,
+      "revenueBeforeDiscount": 720000
+    },
+    "female": {
+      "count": 563,
+      "memberCardDiscount": 7110000,
+      "revenue": 25877382.5,
+      "revenueAfterDiscount": 32987382.5,
+      "revenueBeforeDiscount": 34360000
+    },
+    "name": "THÁO GEL",
+    "revenueBeforeDiscount": 35080000,
+    "revenueAfterDiscount": 33707382.5,
+    "memberCardDiscount": 7110000,
+    "revenue": 26597382.5,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV349211",
+    "count": 124,
+    "type": "SERVICE",
+    "staffCommissions": [75000],
+    "staffNames": ["MY MY"],
+    "male": {
+      "count": 6,
+      "memberCardDiscount": 250000,
+      "revenue": 500000,
+      "revenueAfterDiscount": 750000,
+      "revenueBeforeDiscount": 1280000
+    },
+    "female": {
+      "count": 118,
+      "memberCardDiscount": 5298759.21,
+      "revenue": 13225571.32,
+      "revenueAfterDiscount": 18524330.53,
+      "revenueBeforeDiscount": 20200000
+    },
+    "name": "MÓNG ÚP",
+    "revenueBeforeDiscount": 21480000,
+    "revenueAfterDiscount": 19274330.53,
+    "memberCardDiscount": 5548759.21,
+    "revenue": 13725571.32,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV73465",
+    "count": 89,
+    "type": "SERVICE",
+    "staffCommissions": [75000],
+    "staffNames": ["MY MY"],
+    "male": {
+      "count": 5,
+      "memberCardDiscount": 0,
+      "revenue": 540000,
+      "revenueAfterDiscount": 540000,
+      "revenueBeforeDiscount": 1040000
+    },
+    "female": {
+      "count": 84,
+      "memberCardDiscount": 2750000,
+      "revenue": 11857500,
+      "revenueAfterDiscount": 14607500,
+      "revenueBeforeDiscount": 18690000
+    },
+    "name": "FILL",
+    "revenueBeforeDiscount": 19730000,
+    "revenueAfterDiscount": 15147500,
+    "memberCardDiscount": 2750000,
+    "revenue": 12397500,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV73470",
+    "count": 218,
+    "type": "SERVICE",
+    "staffCommissions": [75000],
+    "staffNames": ["MY MY"],
+    "male": {
+      "count": 5,
+      "memberCardDiscount": 0,
+      "revenue": 1330000,
+      "revenueAfterDiscount": 1330000,
+      "revenueBeforeDiscount": 1330000
+    },
+    "female": {
+      "count": 213,
+      "memberCardDiscount": 9780000,
+      "revenue": 32690797.669999998,
+      "revenueAfterDiscount": 42470797.67,
+      "revenueBeforeDiscount": 49420000
+    },
+    "name": "SƠN GEL MẮT MÈO",
+    "revenueBeforeDiscount": 50750000,
+    "revenueAfterDiscount": 43800797.67,
+    "memberCardDiscount": 9780000,
+    "revenue": 34020797.67,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "DV425382",
+    "count": 208,
+    "type": "SERVICE",
+    "staffCommissions": [20000],
+    "staffNames": ["LY"],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 460000,
+      "revenueAfterDiscount": 460000,
+      "revenueBeforeDiscount": 920000
+    },
+    "female": {
+      "count": 204,
+      "memberCardDiscount": 7840000,
+      "revenue": 32916500,
+      "revenueAfterDiscount": 40756500,
+      "revenueBeforeDiscount": 44540000
+    },
+    "name": "SƠN NHŨ  FLASH",
+    "revenueBeforeDiscount": 45460000,
+    "revenueAfterDiscount": 41216500,
+    "memberCardDiscount": 7840000,
+    "revenue": 33376500,
+    "serviceName": "NAIL"
+  },
+  {
+    "id": "nhung bot",
+    "count": 122,
+    "type": "SERVICE",
+    "staffCommissions": [150000],
+    "staffNames": ["MY MY"],
+    "male": {
+      "count": 3,
+      "memberCardDiscount": 0,
+      "revenue": 1500000,
+      "revenueAfterDiscount": 1500000,
+      "revenueBeforeDiscount": 1500000
+    },
+    "female": {
+      "count": 119,
+      "memberCardDiscount": 6900000,
+      "revenue": 29438612.86,
+      "revenueAfterDiscount": 36338612.86,
+      "revenueBeforeDiscount": 43940000
+    },
+    "name": "NỐI MÓNG BỘT",
+    "revenueBeforeDiscount": 45440000,
+    "revenueAfterDiscount": 37838612.86,
+    "memberCardDiscount": 6900000,
+    "revenue": 30938612.86,
+    "serviceName": "NAIL"
+  }
+]

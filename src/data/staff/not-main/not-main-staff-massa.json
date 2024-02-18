@@ -1,0 +1,132 @@
+[
+  {
+    "gender": "FEMALE",
+    "name": "NGỌC FOOT",
+    "services": [
+      {
+        "name": "KHACH YC MASSAGE",
+        "commission": 0,
+        "count": 509,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "QUYÊN",
+    "services": [
+      {
+        "name": "MASSAGE FOOT 40'",
+        "commission": 21200000,
+        "count": 264,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "MỸ",
+    "services": [
+      {
+        "name": "MASSAGE FOOT 40'",
+        "commission": 16720000,
+        "count": 208,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "THẢO MASSAGE",
+    "services": [
+      {
+        "name": "MASSAGE FOOT 60'",
+        "commission": 1210000,
+        "count": 11,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "BÍCH",
+    "services": [
+      {
+        "name": "MASSAGE FOOT 40'",
+        "commission": 320000,
+        "count": 4,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "MAI MAI",
+    "services": [
+      {
+        "name": "Sử dụng THẺ 6 LẦN MASSAGE ĐÁ CẨM THẠCH",
+        "commission": 0,
+        "count": 2,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "NHÍM",
+    "services": [
+      {
+        "name": "MASSAGE  TAY 20'",
+        "commission": 40000,
+        "count": 2,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "MAI",
+    "services": [
+      {
+        "name": "Sử dụng THẺ 6 LẦN MASSAGE ĐÁ CẨM THẠCH",
+        "commission": 0,
+        "count": 2,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "NGỌC ÁNH MASSAGE",
+    "services": [
+      {
+        "name": "MASSAGE  CỔ - VAI - GÁY 20P",
+        "commission": 80000,
+        "count": 2,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  },
+  {
+    "gender": "FEMALE",
+    "name": "THANH THANH",
+    "services": [
+      {
+        "name": "Sử dụng THẺ 6 LẦN MASSAGE ĐÁ CẨM THẠCH",
+        "commission": 0,
+        "count": 1,
+        "type": "MASSA"
+      }
+    ],
+    "isMain": false
+  }
+]

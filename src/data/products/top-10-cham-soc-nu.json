@@ -1,0 +1,262 @@
+[
+  {
+    "id": "014926411437",
+    "count": 203,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 4468800,
+      "revenueAfterDiscount": 4468800,
+      "revenueBeforeDiscount": 4560000
+    },
+    "female": {
+      "count": 199,
+      "memberCardDiscount": 8632400,
+      "revenue": 211802881.8,
+      "revenueAfterDiscount": 220435281.8,
+      "revenueBeforeDiscount": 226311000
+    },
+    "name": "Myhero X2 Kem làm mềm&hàn gắn biểu bì tóc, bổ sung Collagen 414ml",
+    "revenueBeforeDiscount": 230871000,
+    "revenueAfterDiscount": 224904081.8,
+    "memberCardDiscount": 8632400,
+    "revenue": 216271681.8
+  },
+  {
+    "id": "4021609275411",
+    "count": 127,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 43,
+      "memberCardDiscount": 332500,
+      "revenue": 14514500,
+      "revenueAfterDiscount": 14847000,
+      "revenueBeforeDiscount": 15050000
+    },
+    "female": {
+      "count": 84,
+      "memberCardDiscount": 2305500,
+      "revenue": 26248111.11,
+      "revenueAfterDiscount": 28553611.11,
+      "revenueBeforeDiscount": 29275000
+    },
+    "name": "GW-KEM TẠO KIỂU ROUGHMAN 4 GOLDWELL 100ML",
+    "revenueBeforeDiscount": 44325000,
+    "revenueAfterDiscount": 43400611.11,
+    "memberCardDiscount": 2638000,
+    "revenue": 40762611.11
+  },
+  {
+    "id": "850018802192",
+    "count": 74,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 2,
+      "memberCardDiscount": 0,
+      "revenue": 1290100,
+      "revenueAfterDiscount": 1290100,
+      "revenueBeforeDiscount": 1358000
+    },
+    "female": {
+      "count": 72,
+      "memberCardDiscount": 611100,
+      "revenue": 46138625.16,
+      "revenueAfterDiscount": 46749725.16,
+      "revenueBeforeDiscount": 48598000
+    },
+    "name": "OLAPLEX GỘI TÍM ( NO.4P)",
+    "revenueBeforeDiscount": 49956000,
+    "revenueAfterDiscount": 48039825.16,
+    "memberCardDiscount": 611100,
+    "revenue": 47428725.16
+  },
+  {
+    "id": "896364002954",
+    "count": 49,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 3,
+      "memberCardDiscount": 0,
+      "revenue": 2025000,
+      "revenueAfterDiscount": 2025000,
+      "revenueBeforeDiscount": 2250000
+    },
+    "female": {
+      "count": 46,
+      "memberCardDiscount": 2742500,
+      "revenue": 30652500,
+      "revenueAfterDiscount": 33395000,
+      "revenueBeforeDiscount": 34400000
+    },
+    "name": "OLL-OLAPLEX NO.6 100ML",
+    "revenueBeforeDiscount": 36650000,
+    "revenueAfterDiscount": 35420000,
+    "memberCardDiscount": 2742500,
+    "revenue": 32677500
+  },
+  {
+    "id": "074469523042",
+    "count": 49,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 5,
+      "memberCardDiscount": 0,
+      "revenue": 2691000,
+      "revenueAfterDiscount": 2691000,
+      "revenueBeforeDiscount": 2900000
+    },
+    "female": {
+      "count": 44,
+      "memberCardDiscount": 533600,
+      "revenue": 21935600,
+      "revenueAfterDiscount": 22469200,
+      "revenueBeforeDiscount": 24940000
+    },
+    "name": "HAIR SHAKE- xịt tạo kiểu tăng phồng 150ml",
+    "revenueBeforeDiscount": 27840000,
+    "revenueAfterDiscount": 25160200,
+    "memberCardDiscount": 533600,
+    "revenue": 24626600
+  },
+  {
+    "id": "3474636645800",
+    "count": 46,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 5883000,
+      "revenueAfterDiscount": 5883000,
+      "revenueBeforeDiscount": 6360000
+    },
+    "female": {
+      "count": 42,
+      "memberCardDiscount": 2893800,
+      "revenue": 60057649.25,
+      "revenueAfterDiscount": 62951449.25,
+      "revenueBeforeDiscount": 69980000
+    },
+    "name": "LR-TINH CHẤT KÍCH THÍCH MỌC TÓC LOREAL 90ML",
+    "revenueBeforeDiscount": 76340000,
+    "revenueAfterDiscount": 68834449.25,
+    "memberCardDiscount": 2893800,
+    "revenue": 65940649.25
+  },
+  {
+    "id": "896364002435",
+    "count": 43,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 2512300,
+      "revenueAfterDiscount": 2512300,
+      "revenueBeforeDiscount": 2716000
+    },
+    "female": {
+      "count": 39,
+      "memberCardDiscount": 645050,
+      "revenue": 24799890,
+      "revenueAfterDiscount": 25444940,
+      "revenueBeforeDiscount": 26219000
+    },
+    "name": "OLL-DẦU XẢ OLAPLEX (NO.5 BOND)250ML",
+    "revenueBeforeDiscount": 28935000,
+    "revenueAfterDiscount": 27957240,
+    "memberCardDiscount": 645050,
+    "revenue": 27312190
+  },
+  {
+    "id": "074469516525",
+    "count": 38,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 38,
+      "memberCardDiscount": 0,
+      "revenue": 14541600,
+      "revenueAfterDiscount": 14541600,
+      "revenueBeforeDiscount": 15770000
+    },
+    "name": "DẦU GỘI PHỤC HỒI HƯ TỔN & GIỮ MÀU TÓC NHUỘM 300ML",
+    "revenueBeforeDiscount": 15770000,
+    "revenueAfterDiscount": 14541600,
+    "memberCardDiscount": 0,
+    "revenue": 14541600
+  },
+  {
+    "id": "896364002428",
+    "count": 38,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 1,
+      "memberCardDiscount": 0,
+      "revenue": 611100,
+      "revenueAfterDiscount": 611100,
+      "revenueBeforeDiscount": 679000
+    },
+    "female": {
+      "count": 37,
+      "memberCardDiscount": 1269730,
+      "revenue": 22742520,
+      "revenueAfterDiscount": 24012250,
+      "revenueBeforeDiscount": 24861000
+    },
+    "name": "OLL-DẦU GỘI OLAPLEX NO.4 250ML",
+    "revenueBeforeDiscount": 25540000,
+    "revenueAfterDiscount": 24623350,
+    "memberCardDiscount": 1269730,
+    "revenue": 23353620
+  },
+  {
+    "id": "3474636858002",
+    "count": 35,
+    "type": "PRODUCT",
+    "staffCommissions": [],
+    "staffNames": [],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 35,
+      "memberCardDiscount": 0,
+      "revenue": 54832000,
+      "revenueAfterDiscount": 54832000,
+      "revenueBeforeDiscount": 56000000
+    },
+    "name": "DƯỠNG CHẤT KERASTASE CHĂM SÓC DA ĐẦU & GIẢM RỤNG TÓC 90ML",
+    "revenueBeforeDiscount": 56000000,
+    "revenueAfterDiscount": 54832000,
+    "memberCardDiscount": 0,
+    "revenue": 54832000
+  }
+]

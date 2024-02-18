@@ -1,0 +1,272 @@
+[
+  {
+    "id": "DV62664",
+    "count": 1095,
+    "type": "SERVICE",
+    "staffCommissions": [80000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 46,
+      "memberCardDiscount": 260000,
+      "revenue": 9210000,
+      "revenueAfterDiscount": 9470000,
+      "revenueBeforeDiscount": 11810000
+    },
+    "female": {
+      "count": 1049,
+      "memberCardDiscount": 66397000,
+      "revenue": 179728253.87,
+      "revenueAfterDiscount": 246125253.86999997,
+      "revenueBeforeDiscount": 269930000
+    },
+    "name": "MASSAGE FOOT 40'",
+    "revenueBeforeDiscount": 281740000,
+    "revenueAfterDiscount": 255595253.86999997,
+    "memberCardDiscount": 66657000,
+    "revenue": 188938253.86999997,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV62666",
+    "count": 989,
+    "type": "SERVICE",
+    "staffCommissions": [110000],
+    "staffNames": ["MỸ"],
+    "male": {
+      "count": 37,
+      "memberCardDiscount": 650000,
+      "revenue": 7800000,
+      "revenueAfterDiscount": 8450000,
+      "revenueBeforeDiscount": 12080000
+    },
+    "female": {
+      "count": 952,
+      "memberCardDiscount": 123080000,
+      "revenue": 156082100,
+      "revenueAfterDiscount": 279162100,
+      "revenueBeforeDiscount": 311470000
+    },
+    "name": "MASSAGE FOOT 60'",
+    "revenueBeforeDiscount": 323550000,
+    "revenueAfterDiscount": 287612100,
+    "memberCardDiscount": 123730000,
+    "revenue": 163882100,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV62934",
+    "count": 717,
+    "type": "SERVICE",
+    "staffCommissions": [20000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 22,
+      "memberCardDiscount": 0,
+      "revenue": 1200000,
+      "revenueAfterDiscount": 1200000,
+      "revenueBeforeDiscount": 1760000
+    },
+    "female": {
+      "count": 695,
+      "memberCardDiscount": 18548389.88,
+      "revenue": 31548600,
+      "revenueAfterDiscount": 50096989.88,
+      "revenueBeforeDiscount": 55600000
+    },
+    "name": "MASSAGE  TAY 20'",
+    "revenueBeforeDiscount": 57360000,
+    "revenueAfterDiscount": 51296989.88,
+    "memberCardDiscount": 18548389.88,
+    "revenue": 32748600,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV76940",
+    "count": 273,
+    "type": "SERVICE",
+    "staffCommissions": [70000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 7,
+      "memberCardDiscount": 0,
+      "revenue": 1888000,
+      "revenueAfterDiscount": 1888000,
+      "revenueBeforeDiscount": 2240000
+    },
+    "female": {
+      "count": 266,
+      "memberCardDiscount": 26075459.520000003,
+      "revenue": 53338100,
+      "revenueAfterDiscount": 79413559.52,
+      "revenueBeforeDiscount": 85000000
+    },
+    "name": "SPA CHÂN",
+    "revenueBeforeDiscount": 87240000,
+    "revenueAfterDiscount": 81301559.52,
+    "memberCardDiscount": 26075459.520000003,
+    "revenue": 55226100,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV687924",
+    "count": 225,
+    "type": "SERVICE",
+    "staffCommissions": [70000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 56,
+      "memberCardDiscount": 0,
+      "revenue": 280000,
+      "revenueAfterDiscount": 280000,
+      "revenueBeforeDiscount": 15680000
+    },
+    "female": {
+      "count": 169,
+      "memberCardDiscount": 10726924.04,
+      "revenue": 24301600,
+      "revenueAfterDiscount": 35028524.04000001,
+      "revenueBeforeDiscount": 46660000
+    },
+    "name": "MASSAGE  CỔ - VAI - GÁY 40P",
+    "revenueBeforeDiscount": 62340000,
+    "revenueAfterDiscount": 35308524.04000001,
+    "memberCardDiscount": 10726924.04,
+    "revenue": 24581600,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV187661",
+    "count": 115,
+    "type": "SERVICE",
+    "staffCommissions": [180000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 8,
+      "memberCardDiscount": 0,
+      "revenue": 3750000,
+      "revenueAfterDiscount": 3750000,
+      "revenueBeforeDiscount": 4000000
+    },
+    "female": {
+      "count": 107,
+      "memberCardDiscount": 9220000,
+      "revenue": 41630000,
+      "revenueAfterDiscount": 50850000,
+      "revenueBeforeDiscount": 53500000
+    },
+    "name": "MASSAGE BODY 60P",
+    "revenueBeforeDiscount": 57500000,
+    "revenueAfterDiscount": 54600000,
+    "memberCardDiscount": 9220000,
+    "revenue": 45380000,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV187663",
+    "count": 75,
+    "type": "SERVICE",
+    "staffCommissions": [210000],
+    "staffNames": ["MỸ"],
+    "male": {
+      "count": 3,
+      "memberCardDiscount": 0,
+      "revenue": 650000,
+      "revenueAfterDiscount": 650000,
+      "revenueBeforeDiscount": 1950000
+    },
+    "female": {
+      "count": 72,
+      "memberCardDiscount": 14950000,
+      "revenue": 29412500,
+      "revenueAfterDiscount": 44362500,
+      "revenueBeforeDiscount": 46800000
+    },
+    "name": "MASSAGE BODY 90P",
+    "revenueBeforeDiscount": 48750000,
+    "revenueAfterDiscount": 45012500,
+    "memberCardDiscount": 14950000,
+    "revenue": 30062500,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV687896",
+    "count": 45,
+    "type": "SERVICE",
+    "staffCommissions": [300000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 45,
+      "memberCardDiscount": 6698136.16,
+      "revenue": 10800000,
+      "revenueAfterDiscount": 17498136.16,
+      "revenueBeforeDiscount": 20250000
+    },
+    "name": "MASSAGE FOOT 90'",
+    "revenueBeforeDiscount": 20250000,
+    "revenueAfterDiscount": 17498136.16,
+    "memberCardDiscount": 6698136.16,
+    "revenue": 10800000,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV687923",
+    "count": 49,
+    "type": "SERVICE",
+    "staffCommissions": [40000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 140000,
+      "revenueAfterDiscount": 140000,
+      "revenueBeforeDiscount": 560000
+    },
+    "female": {
+      "count": 45,
+      "memberCardDiscount": 2240000,
+      "revenue": 2996000,
+      "revenueAfterDiscount": 5236000,
+      "revenueBeforeDiscount": 6300000
+    },
+    "name": "MASSAGE  TAY 40'",
+    "revenueBeforeDiscount": 6860000,
+    "revenueAfterDiscount": 5376000,
+    "memberCardDiscount": 2240000,
+    "revenue": 3136000,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV687905",
+    "count": 26,
+    "type": "SERVICE",
+    "staffCommissions": [10000],
+    "staffNames": ["MỸ"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 26,
+      "memberCardDiscount": 400000,
+      "revenue": 840000,
+      "revenueAfterDiscount": 1240000,
+      "revenueBeforeDiscount": 1300000
+    },
+    "name": "KEM LÀM MỀM CHÂN ( MỸ)",
+    "revenueBeforeDiscount": 1300000,
+    "revenueAfterDiscount": 1240000,
+    "memberCardDiscount": 400000,
+    "revenue": 840000,
+    "serviceName": "MASSA"
+  }
+]
