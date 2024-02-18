@@ -76,15 +76,9 @@ export const staffSalaryTitles = {
 };
 
 export const serviceTitles = {
-  top10Hairs: "Top 10 Dịch vụ Tóc khách sử dụng nhiều",
-  top10HairsMale: "Top 10 Dịch vụ Tóc Nam khách sử dụng nhiều",
-  top10HairsFemale: "Top 10 Dịch vụ Tóc Nữ khách sử dụng nhiều",
-  top10Massas: "Top 10 Dịch vụ Massa khách sử dụng nhiều",
-  top10MassasMale: "Top 10 Dịch vụ Massa Nam khách sử dụng nhiều",
-  top10MassasFemale: "Top 10 Dịch vụ Massa Nữ khách sử dụng nhiều",
-  top10Nails: "Top 10 Dịch vụ Nail khách sử dụng nhiều",
-  top10NailsMale: "Top 10 Dịch vụ Nail Nam khách sử dụng nhiều",
-  top10NailsFemale: "Top 10 Dịch vụ Nail Nữ khách sử dụng nhiều",
+  top10Hairs: "Chung",
+  top10HairsMale: "Theo Nam",
+  top10HairsFemale: "Theo Nữ",
 };
 
 export const productTitles = {

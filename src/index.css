@@ -7,7 +7,7 @@
 #root {
   background-color: rgb(255, 220, 227);
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   background-image: url(https://dqbwi98pfk3t.cloudfront.net/Common/LandingPages/login_background_hairsalon.jpg);
 }
 .ant-modal-close {

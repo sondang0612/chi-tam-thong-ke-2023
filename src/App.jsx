@@ -19,6 +19,9 @@ import {
 } from "./data";
 import MainChart1 from "./components/MainChart1";
 import DoubleChartBar from "./components/DoubleChartBar";
+import StaffCountPieChart from "./components/StaffCountPieChart";
+import ServicePieChart from "./components/ServicePieChart";
+import ProductPieChart from "./components/ProductPieChart";
 
 Chart.register(CategoryScale);
 
@@ -39,8 +42,6 @@ function App() {
   const [category, setCategory] = React.useState(categories[0]);
   const [titles, setTitles] = React.useState([]);
   const [title, setTitle] = React.useState("");
-  const [titles1, setTitles1] = React.useState([]);
-  const [title1, setTitle1] = React.useState("");
   const [clickedData, setClickedData] = React.useState(undefined);
   const [modal, setModal] = React.useState(false);
   React.useEffect(() => {
@@ -56,8 +57,6 @@ function App() {
     } else if (category === categories[3]) {
       setTitles(staffTitles);
       setTitle(staffTitles.main);
-      setTitles1(staffTitles1);
-      setTitle1(staffTitles1.hair);
     } else if (category === categories[4]) {
       setTitles(staffSalaryTitles);
       setTitle(staffSalaryTitles.top20);
@@ -92,6 +91,8 @@ function App() {
         height: "100%",
         alignItems: "center",
         justifyContent: "center",
+        paddingTop: 50,
+        paddingBottom: 50,
       }}
     >
       <MySelect
@@ -101,17 +102,12 @@ function App() {
         setTitle={setTitle}
         title={title}
         titles={titles}
-        setTitles={setTitles}
-        setTitles1={setTitles1}
-        title1={title1}
-        titles1={titles1}
-        setTitle1={setTitle1}
       />
       <div
         style={{
           backgroundColor: "#fff",
           width: "80%",
-          height: "80%",
+          height: category === categories[3] ? "100vh" : "80vh",
           padding: 50,
           borderRadius: 10,
           position: "relative",
@@ -123,19 +119,13 @@ function App() {
         {category === categories[0] ? (
           <Revenue12Months title={title} />
         ) : category === categories[3] ? (
-          <MainChart1
-            title={title}
-            title1={title1}
-            onClickedData={onClickedData}
-          />
+          <StaffCountPieChart type={title} />
         ) : category === categories[4] ? (
           <DoubleChartBar onClickedData={onClickedData} title={title} />
+        ) : category === categories[1] ? (
+          <ServicePieChart type={title} />
         ) : (
-          <MainChart
-            data={chart?.data}
-            labels={chart?.labels}
-            onClickedData={onClickedData}
-          />
+          <ProductPieChart type={title} />
         )}
       </div>
       <Modal

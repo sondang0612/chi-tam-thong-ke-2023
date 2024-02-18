@@ -1,0 +1,4562 @@
+[
+  {
+    "gender": "MALE",
+    "name": "STYLIST ANH TÚ",
+    "services": [
+      {
+        "name": "SẤY TÓC DÀI",
+        "commission": 396000,
+        "count": 25,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI YC",
+        "commission": 108000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 180000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC DÀI",
+        "commission": 48000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 74,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN SẤY TÓC DÀI",
+        "commission": 72000,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ SẤY",
+        "commission": 130000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 420000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MYDENTITY HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 17,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 450000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ VỪA",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ DÀI",
+        "commission": 160000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / BẤM CHÂN TÓC",
+        "commission": 150000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 26,
+        "type": "HAIR"
+      },
+      { "name": "SẤY STYLIST", "commission": 0, "count": 8, "type": "HAIR" },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC DÀI",
+        "commission": 45000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC DÀI",
+        "commission": 1050000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 35000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER",
+        "commission": 120000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC NGẮN/ VỪA",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI THIẾT KẾ TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 60000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC VỪA",
+        "commission": 650000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC VỪA  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC TÉM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH UỐN - DUỖI",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI",
+        "commission": 25000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI/XAO XOAY TÓC MÁI",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 225000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM HOT HAIR DESIGNER",
+        "commission": 96000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 35000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 225000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI  HOT HAIR DESIGNER",
+        "commission": 340000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 150000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MYDENTITY MASTER HAIR DESIGNER",
+        "commission": 70000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ CẮT",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI + UỐN/DUỖI LỚP NGOÀI",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 205000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 110000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC VỪA",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true,
+    "count": {
+      "cat": 149,
+      "goi": 0,
+      "nhuom": 37,
+      "noi": 0,
+      "say": 73,
+      "tay": 4,
+      "uon": 26
+    }
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST BI",
+    "services": [
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 920000,
+        "count": 23,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ CẮT",
+        "commission": 0,
+        "count": 46,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 86,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NGẮN  BEST SELLER HAIR DESIGNER",
+        "commission": 1528000,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC NGẮN",
+        "commission": 990000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 299,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC  BEST SELLER HAIR DESIGNER",
+        "commission": 2240000,
+        "count": 37,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 80,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM  HAIR DESIGNER YC",
+        "commission": 2244000,
+        "count": 49,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM PURE PIGMENT",
+        "commission": 5240000,
+        "count": 41,
+        "type": "HAIR"
+      },
+      { "name": "AMINO AXIT", "commission": 55000, "count": 2, "type": "HAIR" },
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 300,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NỮ  HAIR DESIGNER YC",
+        "commission": 3828000,
+        "count": 57,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NỮ  HAIR DESIGNER",
+        "commission": 2040000,
+        "count": 34,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN + AMINO AXIT",
+        "commission": 480000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      { "name": "SẤY YC", "commission": 258000, "count": 7, "type": "HAIR" },
+      {
+        "name": "CẮT TÓC  NAM  HAIR DESIGNER",
+        "commission": 840000,
+        "count": 21,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI CHÂN TÓC",
+        "commission": 48000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN ( 5cm trở lại )",
+        "commission": 392000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN",
+        "commission": 1660000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH PHỦ MÀU",
+        "commission": 0,
+        "count": 31,
+        "type": "HAIR"
+      },
+      { "name": "TẨY TÓC", "commission": 368000, "count": 5, "type": "HAIR" },
+      {
+        "name": "TẨY BALAYAGE / OMBRE",
+        "commission": 1536000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN SẤY TÓC TÉM",
+        "commission": 160000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ SẤY",
+        "commission": 100000,
+        "count": 10,
+        "type": "HAIR"
+      },
+      { "name": "PHỦ MÀU", "commission": 340000, "count": 4, "type": "HAIR" },
+      { "name": "ÉP SIDE", "commission": 35200, "count": 2, "type": "HAIR" },
+      {
+        "name": "UỐN HOÀN HÌNH",
+        "commission": 192000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      { "name": "WAX Nam / Nữ", "commission": 0, "count": 12, "type": "HAIR" },
+      { "name": "DUỖI", "commission": 144000, "count": 1, "type": "HAIR" },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT NAM STYLIST",
+        "commission": 36000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "NÂNG NỀN", "commission": 256000, "count": 3, "type": "HAIR" },
+      {
+        "name": "DUỖI LỚP NGOÀI",
+        "commission": 128000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      { "name": "SẤY", "commission": 76000, "count": 3, "type": "HAIR" },
+      {
+        "name": "UỐN  / DUỖI TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 1033500,
+        "count": 23,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 1056000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC VỪA",
+        "commission": 1560000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NAM  BEST SELLER HAIR DESIGNER",
+        "commission": 1800000,
+        "count": 25,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 29,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 160,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC DÀI  BEST SELLER HAIR DESIGNER",
+        "commission": 4494000,
+        "count": 33,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 119,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 11256000,
+        "count": 88,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 3844000,
+        "count": 18,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA BEST SELLER HAIR DESIGNER",
+        "commission": 1000000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT NAM STYLIST",
+        "commission": 72000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ   BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC TÉM  BEST SELLER HAIR DESIGNER",
+        "commission": 780000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 143,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / BẤM CHÂN TÓC",
+        "commission": 1008000,
+        "count": 27,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU  TÓC NGẮN BEST SELLER HAIR DESIGNER",
+        "commission": 315000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 80000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC TÉM YC",
+        "commission": 361000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 384000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC TÉM",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU  TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 953500,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC DÀI",
+        "commission": 5550000,
+        "count": 37,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC DÀI",
+        "commission": 724000,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI THIẾT KẾ TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 264000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC DÀI",
+        "commission": 672000,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC TÉM",
+        "commission": 288000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC VỪA BEST SELLER HAIR DESIGNER",
+        "commission": 2232000,
+        "count": 23,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI/XAO XOAY TÓC MÁI",
+        "commission": 112500,
+        "count": 5,
+        "type": "HAIR"
+      },
+      { "name": "CẮT TÓC BÉ YC", "commission": 0, "count": 1, "type": "HAIR" },
+      {
+        "name": "COMBO 1  TÓC VỪA  BEST SELLER HAIR DESIGNER",
+        "commission": 109000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 260000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 288000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "ÉP SIDE TÓC NAM MASTER  HAIR DESIGNER (nhiều)",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 96000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 544000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NỮ  HAIR DESIGNER",
+        "commission": 540000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 935000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MASTER HAIR DESIGNER",
+        "commission": 104000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI CHÂN TÓC BEST SELLER HAIR DESIGNER",
+        "commission": 312000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC VỪA BEST SELLER HAIR DESIGNER",
+        "commission": 1044000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC VỪA  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI",
+        "commission": 127500,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI + UỐN/DUỖI LỚP NGOÀI",
+        "commission": 120000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 9024000,
+        "count": 18,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU  TÓC TÉM BEST SELLER HAIR DESIGNER",
+        "commission": 260000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2 TÓC NGẮN BEST SELLER HAIR DESIGNER",
+        "commission": 500000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN  BEST SELLER HAIR DESIGNER",
+        "commission": 840000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH UỐN - DUỖI",
+        "commission": 0,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM STYLIST",
+        "commission": 36000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC NAM",
+        "commission": 20000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "XẢ BẤM /XẢ UỐN CHÂN TÓC",
+        "commission": 144000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 16,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "ÉP SIDE TÓC NAM BEST SELLER HAIR DESIGNER (tóc nhiều )",
+        "commission": 180000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      { "name": "KHÁCH YC CẮT", "commission": 0, "count": 3, "type": "HAIR" },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC VỪA  BEST SELLER HAIR DESIGNER",
+        "commission": 1006000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM CƠ BẢN TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC NGẮN  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI YC",
+        "commission": 189000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 168000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC VỪA  BEST SELLER HAIR DESIGNER",
+        "commission": 313000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC NGẮN  BEST SELLER HAIR DESIGNER",
+        "commission": 1440000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM MYDENTITY TÓC NAM  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 3 TÓC DÀI  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 65000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN MASTER HAIR DESIGNER",
+        "commission": 192000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO CẮT BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO CẮT BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI",
+        "commission": 10000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN NTMT CHÍ TÂM",
+        "commission": 88000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN TÓC MÁI",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN CHÂN TÓC",
+        "commission": 96000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/4",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC VỪA",
+        "commission": 256000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT TỪ 3CM-5CM BEST SELLER HAIR DESIGNER",
+        "commission": 1890000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ DÀI",
+        "commission": 400000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC VỪA",
+        "commission": 80000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "GỘI KERASTASE NỮ SUÔN MƯỢT",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT  TÓC NAM",
+        "commission": 64000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "OLAPLEX  BOND 20%",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN / PHỦ MÀU TÓC NAM",
+        "commission": 48000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT DƯỚI 3CM  BEST SELLER HAIR DESIGNER",
+        "commission": 360000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC NGẮN",
+        "commission": 336000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU  TÓC VỪA BEST SELLER HAIR DESIGNER",
+        "commission": 648000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      { "name": "TẨY MÁI", "commission": 54000, "count": 3, "type": "HAIR" },
+      {
+        "name": "Sử dụng THẺ 10 LẦN SẤY TÓC TÉM",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI  BEST SELLER HAIR DESIGNER",
+        "commission": 608000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC AVEDA BEST SELLER HAIR DESIGNER",
+        "commission": 96000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI",
+        "commission": 108000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 520000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC TÉM BEST SELLER HAIR DESIGNER",
+        "commission": 208000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 3 TÓC TÉM  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "ÉP SIDE TÓC NAM BEST SELLER HAIR DESIGNER  (ít)",
+        "commission": 32000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1  TÓC DÀI  BEST SELLER HAIR DESIGNER",
+        "commission": 129000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT DƯỚI 3CM MASTER HAIR DESIGNER",
+        "commission": 207000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 224000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC DƯỚI 3CM + NHUỘM CHÂN BEST SELLER HAIR DESIGNER",
+        "commission": 270000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC NỮ",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "CẮT BẢO HÀNH", "commission": 0, "count": 3, "type": "HAIR" },
+      {
+        "name": "SẤY TÓC TÉM",
+        "commission": 60000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL TÓC NGẮN BEST SELLER HAIR DESIGNER",
+        "commission": 230000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC NGẮN",
+        "commission": 32000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC NGẮN  BEST SELLER HAIR DESIGNER",
+        "commission": 416000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 54000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NAM  MASTER HAIR DESIGNER",
+        "commission": 88000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "OLAPLEX  BOND + 20%/ DV HÓA CHẤT",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 328000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC VƯA  MASTER HAIR DESIGNER",
+        "commission": 256000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC DÀI",
+        "commission": 360000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 3024000,
+        "count": 18,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỦ BÓNG ELUMEN TÓC TÉM  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC VỪA BEST SELLER HAIR DESIGNER",
+        "commission": 432000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 290000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2 TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 280000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC NAM",
+        "commission": 72000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC NGẮN  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC VỪA",
+        "commission": 128000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM  ELUMEN TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 216000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 50000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC NGẮN BEST SELLER HAIR DESIGNER",
+        "commission": 416000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỦ BÓNG ELUMEN TÓC NGẮN BEST SELLER HAIR DESIGNER",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC TÉM",
+        "commission": 48000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ VỪA",
+        "commission": 180000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT TỪ 3CM-5CM MASTER HAIR DESIGNER",
+        "commission": 558000,
+        "count": 2,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true,
+    "count": {
+      "cat": 1044,
+      "goi": 1,
+      "nhuom": 348,
+      "noi": 0,
+      "say": 52,
+      "tay": 81,
+      "uon": 145
+    }
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST CRIS",
+    "services": [
+      {
+        "name": "CẮT TÓC NỮ  HAIR DESIGNER",
+        "commission": 2640000,
+        "count": 44,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM  HAIR DESIGNER YC",
+        "commission": 4840000,
+        "count": 108,
+        "type": "HAIR"
+      },
+      { "name": "WAX Nam / Nữ", "commission": 0, "count": 27, "type": "HAIR" },
+      {
+        "name": "NHUỘM PURE PIGMENT",
+        "commission": 4509000,
+        "count": 44,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 76,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NỮ  HAIR DESIGNER YC",
+        "commission": 5478000,
+        "count": 82,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN ( 5cm trở lại )",
+        "commission": 702000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ CẮT",
+        "commission": 0,
+        "count": 21,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 640000,
+        "count": 16,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC  NAM  HAIR DESIGNER",
+        "commission": 620000,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI",
+        "commission": 50000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      { "name": "ÉP SIDE", "commission": 48400, "count": 3, "type": "HAIR" },
+      {
+        "name": "UỐN HOÀN HÌNH",
+        "commission": 894000,
+        "count": 10,
+        "type": "HAIR"
+      },
+      { "name": "SẤY YC", "commission": 408000, "count": 12, "type": "HAIR" },
+      { "name": "AMINO AXIT", "commission": 12500, "count": 1, "type": "HAIR" },
+      { "name": "TẨY TÓC", "commission": 465000, "count": 6, "type": "HAIR" },
+      {
+        "name": "BẢO HÀNH UỐN - DUỖI",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/4",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "DUỖI", "commission": 174000, "count": 3, "type": "HAIR" },
+      {
+        "name": "PHỤC HỒI KERATIN",
+        "commission": 1620000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN CHÂN TÓC",
+        "commission": 132000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC NAM + AMINO AXIT",
+        "commission": 140000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "ÉP MÁI", "commission": 4200, "count": 1, "type": "HAIR" },
+      {
+        "name": "BẢO HÀNH PHỦ MÀU",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC  NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2",
+        "commission": 280000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỦ BÓNG ELUMEN",
+        "commission": 574000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      { "name": "SẤY", "commission": 72000, "count": 2, "type": "HAIR" },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 120000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN TẠO KIỂU",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "XẢ SẠCH", "commission": 10000, "count": 1, "type": "HAIR" },
+      { "name": "OLAPLEX 20%", "commission": 6000, "count": 1, "type": "HAIR" },
+      {
+        "name": "BẤM/ XẢ CHÂN TÓC",
+        "commission": 24500,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM BARBAR",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC TÉM YC",
+        "commission": 30000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU  TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ   BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN BEST SELLER HAIR DESIGNER",
+        "commission": 192000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ  BEST SELLER HAIR DESIGNER",
+        "commission": 329600,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "XẢ BẤM /XẢ UỐN CHÂN TÓC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU",
+        "commission": 48000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY BEST SELLER HAIR DESIGNER",
+        "commission": 136000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO CẮT BEST SELLER HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / BẤM CHÂN TÓC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO CẮT BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN  / DUỖI TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NỮ HAIR DESIGNER",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM / PHỦ BÓNG TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM / PHỦ BÓNG TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT NAM STYLIST",
+        "commission": 36000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THE WAX 6 LẦN",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "NÂNG NỀN", "commission": 88000, "count": 2, "type": "HAIR" },
+      { "name": "PHỦ MÀU", "commission": 56000, "count": 1, "type": "HAIR" },
+      {
+        "name": "TẨY BALAYAGE / OMBRE",
+        "commission": 400000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL",
+        "commission": 200000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN + AMINO AXIT",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI LỚP NGOÀI",
+        "commission": 48000,
+        "count": 1,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true,
+    "count": {
+      "cat": 79,
+      "goi": 0,
+      "nhuom": 69,
+      "noi": 0,
+      "say": 15,
+      "tay": 11,
+      "uon": 20
+    }
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST DUY",
+    "services": [
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 119,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 58,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 246,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC TÉM YC",
+        "commission": 1882000,
+        "count": 65,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 193,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 294,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 4095000,
+        "count": 71,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC DÀI",
+        "commission": 10080000,
+        "count": 68,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC  NAM STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 1185000,
+        "count": 55,
+        "type": "HAIR"
+      },
+      { "name": "SẤY", "commission": 1044000, "count": 45, "type": "HAIR" },
+      {
+        "name": "NHUỘM PURE PIGMENT",
+        "commission": 855000,
+        "count": 17,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC  NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 2837500,
+        "count": 84,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM STYLIST TRÊN 4 NĂM KINH NGHIỆM YC",
+        "commission": 91500,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH PHỦ MÀU",
+        "commission": 0,
+        "count": 15,
+        "type": "HAIR"
+      },
+      { "name": "SẤY YC", "commission": 30600, "count": 1, "type": "HAIR" },
+      {
+        "name": "NHUỘM CHÂN ( 5cm trở lại )",
+        "commission": 203000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "WAX Nam / Nữ",
+        "commission": 90000,
+        "count": 15,
+        "type": "HAIR"
+      },
+      { "name": "DUỖI", "commission": 200000, "count": 3, "type": "HAIR" },
+      { "name": "AMINO AXIT", "commission": 0, "count": 2, "type": "HAIR" },
+      {
+        "name": "CẮT TÓC MÁI",
+        "commission": 50000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI  NTMT CHÍ TÂM",
+        "commission": 69000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN",
+        "commission": 1030000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "CĂT TÓC BÉ",
+        "commission": 180000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN HOÀN HÌNH",
+        "commission": 308000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI LỚP NGOÀI",
+        "commission": 18000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM PURE PIGMENT  NTMT CHÍ TÂM",
+        "commission": 166000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN + AMINO AXIT NTMT CHÍ TÂM",
+        "commission": 69000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN CHÂN TÓC",
+        "commission": 30000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      { "name": "NÂNG NỀN", "commission": 48000, "count": 2, "type": "HAIR" },
+      {
+        "name": "HIGHLIGHT FULL NTMT CHÍ TÂM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "TẨY TÓC", "commission": 90000, "count": 3, "type": "HAIR" },
+      {
+        "name": "NÂNG NỀN / PHỦ MÀU TÓC NAM",
+        "commission": 45000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 1560000,
+        "count": 54,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / BẤM CHÂN TÓC",
+        "commission": 930000,
+        "count": 44,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC VỪA",
+        "commission": 1690000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI",
+        "commission": 2232000,
+        "count": 62,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN SẤY TÓC TÉM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 695500,
+        "count": 23,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 4270000,
+        "count": 40,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC DÀI",
+        "commission": 292500,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI + UỐN/DUỖI LỚP NGOÀI",
+        "commission": 50000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI",
+        "commission": 20000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 0,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ CẮT",
+        "commission": 0,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 104,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM  MYDENTITY TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI YC",
+        "commission": 761400,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER",
+        "commission": 490000,
+        "count": 49,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 240000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 150000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC NGẮN",
+        "commission": 105000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC NGẮN",
+        "commission": 1430000,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA  TÓC NGẮN  HOT HAIR DESIGNER",
+        "commission": 220000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "ÉP SIDE TÓC NAM HOT HAIR DESIGNER  ( nhiều )",
+        "commission": 160000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 300000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT TỪ 3CM-5CM HOT HAIR DESIGNER",
+        "commission": 750000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 120000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 550000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC AVEDA HOT HAIR DESIGNER",
+        "commission": 270000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 160000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA  TÓC TÉM  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC TÉM",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 637500,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 650000,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 408000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 660000,
+        "count": 10,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC NGẮN/ VỪA",
+        "commission": 448000,
+        "count": 16,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM MYDENTITY TÓC NAM MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM HOT HAIR DESIGNER",
+        "commission": 1648000,
+        "count": 28,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 52000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC NGẮN / VỪA YC",
+        "commission": 275800,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 170000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 31,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI  BEST SELLER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC DÀI",
+        "commission": 720000,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 32,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 595000,
+        "count": 20,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 34,
+        "type": "HAIR"
+      },
+      { "name": "CẮT BẢO HÀNH", "commission": 0, "count": 2, "type": "HAIR" },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC TÉM",
+        "commission": 180000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 47000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC TÉM",
+        "commission": 180000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "XẢ BẤM /XẢ UỐN CHÂN TÓC",
+        "commission": 90000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT DƯỚI 3CM HOT HAIR DESIGNER",
+        "commission": 1530000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      { "name": "TẨY MÁI", "commission": 36000, "count": 1, "type": "HAIR" },
+      { "name": "CĂT TÓC BÉ YC", "commission": 0, "count": 1, "type": "HAIR" },
+      {
+        "name": "HIGHLIGHT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 80000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT  TÓC NAM",
+        "commission": 192000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC VỪA",
+        "commission": 80000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI THIẾT KẾ TÓC TÉM MASTER HAIR DESIGNER",
+        "commission": 48000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI THIẾT KẾ TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 117000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 738000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC VỪA   MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI/UỐN CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2 TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 240000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM  MYDENTITY TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO CẮT HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN HOÀN HÌNH  NTMT CHÍ TÂM",
+        "commission": 220000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH UỐN - DUỖI",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE / OMBRE",
+        "commission": 325000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM YC",
+        "commission": 55000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC NAM + AMINO AXIT",
+        "commission": 75000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC NGẮN",
+        "commission": 32000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO VỆ DA ĐẦU NARAXIS ESENZA ( của Ý)",
+        "commission": 25000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 2929000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI  HOT HAIR DESIGNER",
+        "commission": 170000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 972000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 1200000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "HẤP OLAPLEX 4 IN 1 TÓC DÀI",
+        "commission": 65000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 1125000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "HẤP OLAPLEX 4 IN 1 TÓC NGẮN / VỪA",
+        "commission": 55000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 55000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 8,
+        "type": "HAIR"
+      },
+      { "name": "KHÁCH YC CẮT", "commission": 0, "count": 2, "type": "HAIR" },
+      {
+        "name": "ÉP SIDE TÓC NAM HOT HAIR DESIGNER  ( ít )",
+        "commission": 40000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG MỐI NỐI TÓC LÔNG VŨ",
+        "commission": 25000,
+        "count": 10,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN SẤY TÓC TÉM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ SẤY",
+        "commission": 10000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL TÓC DÀI  HOT HAIR DESIGNER",
+        "commission": 690000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT NAM STYLIST",
+        "commission": 40000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MASTER HAIR DESIGNER",
+        "commission": 130000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT TỪ 3CM-5CM + NHUỘM CHÂN HOT HAIR DESIGNER",
+        "commission": 240000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC VỪA",
+        "commission": 160000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NỮ STYLIST TRÊN 4 NĂM KN",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "OLAPLEX  BOND + 20%/ DV HÓA CHẤT",
+        "commission": 40000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM  MYDENTITY TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 120000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN MASTER HAIR DESIGNER",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI THIẾT KẾ TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 105000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NỮ HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM PHÍM TÓC NHỎ",
+        "commission": 40000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 50000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA MASTER  HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI/XAO XOAY TÓC MÁI",
+        "commission": 12500,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT DƯỚI 3CM MASTER HAIR DESIGNER",
+        "commission": 69000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "MAKEUP & BỚI TÓC CASUAL (nhẹ)",
+        "commission": 500000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 120000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC TÉM  HOT HAIR DESIGNER",
+        "commission": 70000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 75000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC VỪA",
+        "commission": 40000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 205000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ DÀI",
+        "commission": 250000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC DÀI",
+        "commission": 45000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SƠN GEL TAY / CHÂN",
+        "commission": 3200,
+        "count": 1,
+        "type": "NAIL"
+      },
+      {
+        "name": "NHUỘM  ELUMEN  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 35000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC NGẮN",
+        "commission": 35000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT NỮ TẶNG THẺ 30TR",
+        "commission": 25000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NAM",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MYDENTITY HOT HAIR DESIGNER",
+        "commission": 40000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "SẤY STYLIST", "commission": 0, "count": 1, "type": "HAIR" },
+      {
+        "name": "KHÁCH YC NAM",
+        "commission": 10000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC DƯỚI 3CM + NHUỘM CHÂN HOT HAIR DESIGNER",
+        "commission": 162000,
+        "count": 1,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true,
+    "count": {
+      "cat": 1116,
+      "goi": 0,
+      "nhuom": 313,
+      "noi": 10,
+      "say": 223,
+      "tay": 86,
+      "uon": 130
+    }
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST MINH",
+    "services": [
+      {
+        "name": "CẮT TÓC  NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 3000000,
+        "count": 60,
+        "type": "HAIR"
+      },
+      { "name": "SẤY", "commission": 1136000, "count": 34, "type": "HAIR" },
+      {
+        "name": "CẮT TÓC  NAM STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 1380000,
+        "count": 46,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN",
+        "commission": 1100000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN TÓC MÁI",
+        "commission": 25000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI",
+        "commission": 50000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 52,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM STYLIST TRÊN 4 NĂM KINH NGHIỆM YC",
+        "commission": 297000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN + AMINO AXIT",
+        "commission": 100000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM PURE PIGMENT",
+        "commission": 1235000,
+        "count": 16,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM YC",
+        "commission": 275000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN HOÀN HÌNH",
+        "commission": 360000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH PHỦ MÀU",
+        "commission": 0,
+        "count": 18,
+        "type": "HAIR"
+      },
+      {
+        "name": "WAX Nam / Nữ",
+        "commission": 126000,
+        "count": 20,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN ( 5cm trở lại )",
+        "commission": 140000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      { "name": "OLAPLEX 20%", "commission": 7000, "count": 1, "type": "HAIR" },
+      { "name": "NÂNG NỀN", "commission": 40000, "count": 1, "type": "HAIR" },
+      {
+        "name": "Sử dụng THẺ 10 LẦN SẤY TÓC NGẮN - VỪA",
+        "commission": 147000,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM PURE PIGMENT  NTMT CHÍ TÂM",
+        "commission": 220000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN CHÂN TÓC NTMT CHÍ TÂM",
+        "commission": 50000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "DUỖI", "commission": 210000, "count": 3, "type": "HAIR" },
+      {
+        "name": "THÁO NỐI FULL",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "TẨY TÓC", "commission": 200000, "count": 3, "type": "HAIR" },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT NAM STYLIST",
+        "commission": 120000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CĂT TÓC BÉ",
+        "commission": 180000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH UỐN - DUỖI",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL",
+        "commission": 200000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT DƯỚI 3CM MASTER HAIR DESIGNER",
+        "commission": 276000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM MASTER HAIR DESIGNER",
+        "commission": 140000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 262,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 60,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 191,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 127,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC NGẮN",
+        "commission": 2090000,
+        "count": 19,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 1098000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC DÀI",
+        "commission": 315000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 2925000,
+        "count": 46,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC DÀI",
+        "commission": 9300000,
+        "count": 62,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI",
+        "commission": 2016000,
+        "count": 56,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NAM  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / BẤM CHÂN TÓC",
+        "commission": 300000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 420000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI/XAO XOAY TÓC MÁI",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "XẢ BẤM /XẢ UỐN CHÂN TÓC",
+        "commission": 75000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 29,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ SẤY",
+        "commission": 180000,
+        "count": 18,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 30,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 630000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THE WAX 10 LẦN",
+        "commission": 0,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM STYLIST TRÊN 4 NĂM KN",
+        "commission": 360000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ CẮT",
+        "commission": 0,
+        "count": 23,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM HOT HAIR DESIGNER",
+        "commission": 320000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 420000,
+        "count": 15,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER",
+        "commission": 280000,
+        "count": 28,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI",
+        "commission": 52500,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 525000,
+        "count": 22,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 2520000,
+        "count": 22,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 300000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 276000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 810000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC NGẮN/ VỪA",
+        "commission": 84000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MASTER HAIR DESIGNER",
+        "commission": 260000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT TỪ 3CM-5CM HOT HAIR DESIGNER",
+        "commission": 978000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NỮ STYLIST TRÊN 4 NĂM KN",
+        "commission": 50000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN / PHỦ MÀU TÓC NAM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC NGẮN",
+        "commission": 35000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 344500,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC VỪA",
+        "commission": 2860000,
+        "count": 22,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI YC",
+        "commission": 311400,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM MASTER  HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM MYDENTITY TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 290000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2 TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC TÉM",
+        "commission": 80000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤ THU NGOÀI GIỜ",
+        "commission": 40000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO CẮT HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤ THU PHÒNG VIP",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "SẤY YC", "commission": 69000, "count": 1, "type": "HAIR" },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM BARBAR",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẤM/ XẢ CHÂN TÓC",
+        "commission": 17500,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 750000,
+        "count": 10,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC VỪA",
+        "commission": 120000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC DÀI",
+        "commission": 96000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 210000,
+        "count": 22,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 180000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      { "name": "KHÁCH YC CẮT", "commission": 0, "count": 7, "type": "HAIR" },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 500000,
+        "count": 10,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT DƯỚI 3CM HOT HAIR DESIGNER",
+        "commission": 102000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM CƠ BẢN TÓC NAM HOT HAIR DESIGNER",
+        "commission": 75000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 288000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 1464000,
+        "count": 12,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 450000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN SẤY TÓC DÀI",
+        "commission": 171000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN MASTER HAIR DESIGNER",
+        "commission": 360000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC TÉM",
+        "commission": 90000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT TỪ 3CM-5CM MASTER HAIR DESIGNER",
+        "commission": 930000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI + UỐN/DUỖI LỚP NGOÀI",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 1404000,
+        "count": 10,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 324000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2 TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 180000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 210000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC AVEDA HOT HAIR DESIGNER",
+        "commission": 180000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 290000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 338000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 220000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 560000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 525000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 72000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM  MYDENTITY TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI  HOT HAIR DESIGNER",
+        "commission": 680000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT  TÓC NAM",
+        "commission": 48000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC VỪA",
+        "commission": 40000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC VỪA  HOT HAIR DESIGNER",
+        "commission": 135000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC TÉM  HOT HAIR DESIGNER",
+        "commission": 70000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC NGẮN",
+        "commission": 32000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "CẮT BẢO HÀNH", "commission": 0, "count": 1, "type": "HAIR" },
+      {
+        "name": "TẨY FULL + AMINO AXIT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM PHÍM TÓC NHỎ",
+        "commission": 40000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NAM",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN TÓC NGẮN",
+        "commission": 70000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 150000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC VƯA  MASTER HAIR DESIGNER",
+        "commission": 160000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ VỪA",
+        "commission": 120000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ DÀI",
+        "commission": 480000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 180000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM ELUMEN TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 55000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA  TÓC TÉM  HOT HAIR DESIGNER",
+        "commission": 170000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      { "name": "SẤY STYLIST", "commission": 0, "count": 1, "type": "HAIR" },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 455000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 340000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 378000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "GLOSS YOUR HAIR NỮ NGẮN",
+        "commission": 150000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 50000,
+        "count": 1,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true,
+    "count": {
+      "cat": 829,
+      "goi": 0,
+      "nhuom": 237,
+      "noi": 1,
+      "say": 142,
+      "tay": 54,
+      "uon": 78
+    }
+  },
+  {
+    "gender": "MALE",
+    "name": "STYLIST ĐỨC",
+    "services": [
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 58,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 69,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 20,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI YC",
+        "commission": 262800,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC  NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 2150000,
+        "count": 43,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC  NAM STYLIST TRÊN 4 NĂM KINH NGHIỆM",
+        "commission": 1010000,
+        "count": 33,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM PURE PIGMENT",
+        "commission": 760000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM STYLIST TRÊN 4 NĂM KINH NGHIỆM YC",
+        "commission": 264000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 37,
+        "type": "HAIR"
+      },
+      { "name": "WAX Nam / Nữ", "commission": 0, "count": 11, "type": "HAIR" },
+      { "name": "DUỖI", "commission": 100000, "count": 1, "type": "HAIR" },
+      {
+        "name": "PHỤC HỒI KERATIN",
+        "commission": 970000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2",
+        "commission": 300000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NỮ STYLIST TRÊN 4 NĂM KINH NGHIỆM YC",
+        "commission": 550000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN CHÂN TÓC",
+        "commission": 30000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM STYLIST TRÊN 4 NĂM KN",
+        "commission": 60000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC THẺ CẮT",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI",
+        "commission": 50000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN HOÀN HÌNH",
+        "commission": 90000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      { "name": "TẨY TÓC", "commission": 115000, "count": 2, "type": "HAIR" },
+      {
+        "name": "NHUỘM PURE PIGMENT  NTMT CHÍ TÂM",
+        "commission": 460000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      { "name": "AMINO AXIT", "commission": 35000, "count": 1, "type": "HAIR" },
+      {
+        "name": "BẢO HÀNH PHỦ MÀU",
+        "commission": 0,
+        "count": 14,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỦ BÓNG ELUMEN  NTMT CHÍ TÂM",
+        "commission": 120000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "SẤY", "commission": 212000, "count": 7, "type": "HAIR" },
+      {
+        "name": "NHUỘM CHÂN NTMT CHÍ TÂM",
+        "commission": 55000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN CHÂN TÓC NTMT CHÍ TÂM",
+        "commission": 50000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẤM/ XẢ CHÂN TÓC",
+        "commission": 17500,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI",
+        "commission": 576000,
+        "count": 16,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM CƠ BẢN TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 77,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC NGẮN  HOT HAIR DESIGNER",
+        "commission": 91000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC NGẮN",
+        "commission": 550000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM BEST SELLER HAIR DESIGNER",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 576000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 560000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC DÀI",
+        "commission": 144000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC DÀI",
+        "commission": 3900000,
+        "count": 27,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 28,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI/XAO XOAY TÓC MÁI",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "ÉP SIDE TÓC NAM HOT HAIR DESIGNER  ( nhiều )",
+        "commission": 60000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 141000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER",
+        "commission": 110000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 205000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / BẤM CHÂN TÓC",
+        "commission": 90000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 330000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC VƯA  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC NGẮN",
+        "commission": 35000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC VỪA",
+        "commission": 1690000,
+        "count": 13,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH UỐN - DUỖI",
+        "commission": 0,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MASTER HAIR DESIGNER",
+        "commission": 130000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 240000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC TÉM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC NGẮN/ VỪA",
+        "commission": 28000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 162000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 170000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 105000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 6 LẦN CẮT TÓC NAM HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 91000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 225000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 35000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 450000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC TÉM  MASTER HAIR DESIGNER",
+        "commission": 192000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC TÉM MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN  / DUỖI TÓC NAM MASTER  HAIR DESIGNER",
+        "commission": 19500,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT TỪ 3CM-5CM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 108000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      { "name": "CĂT TÓC BÉ YC", "commission": 0, "count": 1, "type": "HAIR" },
+      { "name": "CẮT BẢO HÀNH", "commission": 0, "count": 1, "type": "HAIR" },
+      {
+        "name": "NÂNG NỀN/PHỦ MÀU TÓC DÀI",
+        "commission": 90000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC TÉM  MASTER HAIR DESIGNER",
+        "commission": 80000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 84000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA MASTER  HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC TÉM",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 150000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      { "name": "CĂT TÓC BÉ", "commission": 30000, "count": 1, "type": "HAIR" },
+      {
+        "name": "CẮT TÓC NAM MASTER  HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI",
+        "commission": 7500,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NAM  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT  TÓC NAM",
+        "commission": 16000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC TÉM YC",
+        "commission": 74000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY CHÂN TÓC +  AMINO AXIT DƯỚI 3CM MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM CƠ BẢN TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO TẨY + NHUỘM MYDENTITY TÓC VỪA  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO CẮT HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      { "name": "SẤY YC", "commission": 54000, "count": 1, "type": "HAIR" },
+      {
+        "name": "NHUỘM CHÂN ( 5cm trở lại )",
+        "commission": 105000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL NTMT CHÍ TÂM",
+        "commission": 240000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 138000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 270000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 330000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2  TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 210000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC TÉM HOT HAIR DESIGNER",
+        "commission": 100000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA MASTER HAIR DESIGNER",
+        "commission": 140000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI + UỐN/DUỖI LỚP NGOÀI",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 90000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM HOT HAIR DESIGNER",
+        "commission": 96000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "XẢ BẤM /XẢ UỐN CHÂN TÓC",
+        "commission": 30000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "OLAPLEX  BOND + 20%/ DV HÓA CHẤT",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 60000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "Sử dụng THẺ 10 LẦN CẮT NAM STYLIST",
+        "commission": 36000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC TÉM",
+        "commission": 20000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL + AMINO AXIT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 80000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 2 TÓC NGẮN MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true,
+    "count": {
+      "cat": 308,
+      "goi": 0,
+      "nhuom": 95,
+      "noi": 0,
+      "say": 34,
+      "tay": 21,
+      "uon": 42
+    }
+  },
+  {
+    "gender": "MALE",
+    "name": "TRƯỜNG HOT STYLIST",
+    "services": [
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 150000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "KHÁCH YC HOÁ CHẤT",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC VỪA",
+        "commission": 520000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / BẤM CHÂN TÓC",
+        "commission": 0,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC NGẮN / VỪA YC",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC MÁI HOT HAIR DESIGNER",
+        "commission": 110000,
+        "count": 11,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 64,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC TÉM NỮ  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 70000,
+        "count": 4,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN/DUỖI MÁI",
+        "commission": 12500,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 61,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 31,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 140000,
+        "count": 6,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT 1/2  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 75000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC DÀI",
+        "commission": 72000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL TÓC NAM HOT HAIR DESIGNER",
+        "commission": 96000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "SẤY TÓC NGẮN/ VỪA",
+        "commission": 56000,
+        "count": 7,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 180000,
+        "count": 5,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 180000,
+        "count": 9,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC DÀI HOT HAIR DESIGNER",
+        "commission": 377000,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "BẢO HÀNH PHỦ MÀU",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC DÀI",
+        "commission": 450000,
+        "count": 8,
+        "type": "HAIR"
+      },
+      { "name": "CĂT TÓC BÉ", "commission": 60000, "count": 2, "type": "HAIR" },
+      {
+        "name": "UỐN / DUỖI THIẾT KẾ TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 120000,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "PHỤC HỒI KERATIN TÓC NGẮN",
+        "commission": 110000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "ÉP SIDE TÓC NAM HOT HAIR DESIGNER  ( nhiều )",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC DÀI  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC NGẮN HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "UỐN / DUỖI  TÓC NAM HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "HIGHLIGHT FULL TÓC DÀI  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "CẮT TÓC DÀI HOT HAIR DESIGNER YC",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM MYDENTITY TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 3,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MYDENTITY HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NÂNG NỀN / PHỦ MÀU TÓC NAM",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY BALAYAGE/OMBRE TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM AVEDA TÓC DÀI MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN  TÓC VỪA HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "WAX Nam / Nữ",
+        "commission": 6000,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "DUỖI CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "AMINO AXIT TÓC DÀI",
+        "commission": 0,
+        "count": 2,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM CHÂN TÓC MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "TẨY FULL ĐẦU TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "NHUỘM/PHỦ BÓNG ELUMEN TÓC NGẮN  MASTER HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      },
+      {
+        "name": "COMBO 1 TÓC NAM  HOT HAIR DESIGNER",
+        "commission": 0,
+        "count": 1,
+        "type": "HAIR"
+      }
+    ],
+    "isMain": true,
+    "count": {
+      "cat": 173,
+      "goi": 0,
+      "nhuom": 32,
+      "noi": 0,
+      "say": 17,
+      "tay": 7,
+      "uon": 22
+    }
+  }
+]

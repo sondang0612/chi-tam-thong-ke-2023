@@ -2,17 +2,7 @@ import { Select } from "antd";
 import React from "react";
 import { categories } from "../App";
 
-const MySelect = ({
-  category,
-  setCategory,
-  titles,
-  title,
-  setTitle,
-  titles1,
-  setTitles1,
-  title1,
-  setTitle1,
-}) => {
+const MySelect = ({ category, setCategory, titles, title, setTitle }) => {
   return (
     <div
       style={{
@@ -37,30 +27,15 @@ const MySelect = ({
           );
         })}
       </Select>
-      <Select
-        defaultValue={title}
-        value={title}
-        onChange={(value) => setTitle(value)}
-        style={{ width: "100%", minWidth: 200 }}
-        id="select_description"
-      >
-        {Object.entries(titles).map((item) => {
-          return (
-            <Select.Option key={item[0]} value={item[1]}>
-              {item[1]}
-            </Select.Option>
-          );
-        })}
-      </Select>
-      {category === categories[3] && (
+      {(category === categories[1] || category === categories[3]) && (
         <Select
-          style={{ width: "100%", minWidth: 100 }}
-          defaultValue={title1}
-          value={title1}
-          onChange={(value) => setTitle1(value)}
-          id="select_sub_description"
+          defaultValue={title}
+          value={title}
+          onChange={(value) => setTitle(value)}
+          style={{ width: "100%", minWidth: 200 }}
+          id="select_description"
         >
-          {Object.entries(titles1).map((item) => {
+          {Object.entries(titles).map((item) => {
             return (
               <Select.Option key={item[0]} value={item[1]}>
                 {item[1]}
