@@ -107,8 +107,8 @@ function App() {
         style={{
           backgroundColor: "#fff",
           width: "80%",
-          height: category === categories[3] ? "100vh" : "80vh",
           padding: 50,
+          minHeight: "80vh",
           borderRadius: 10,
           position: "relative",
           borderWidth: 2,

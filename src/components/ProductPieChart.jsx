@@ -39,12 +39,9 @@ const ProductPieChart = ({ type }) => {
     <>
       <p
         style={{
-          position: "absolute",
-          bottom: 25,
+          paddingBottom: 25,
           fontSize: 24,
           fontWeight: 700,
-          right: "50%",
-          transform: "translateX(50%)",
           textAlign: "center",
         }}
       >
@@ -52,64 +49,105 @@ const ProductPieChart = ({ type }) => {
       </p>
       <div
         style={{
-          position: "absolute",
-          right: "50%",
-          transform: "translateX(50%)",
-          top: 50,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          flexDirection: "column",
+          gap: 10,
         }}
       >
-        <div style={{ display: "flex" }}>
-          <div style={{ width: "26vw", textAlign: "center" }}>
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            gap: 10,
+          }}
+        >
+          <div style={{ width: "30vw", textAlign: "center" }}>
             <Pie
               options={{
                 responsive: true,
-                maintainAspectRatio: true,
               }}
               data={{
                 labels: dataChamSoc.labels,
                 datasets: [
                   {
                     data: dataChamSoc.counts,
+                    backgroundColor: [
+                      "rgba(255,26,104,0.5)",
+                      "rgba(54,162,235,0.5)",
+                      "rgba(255,206,86,0.5)",
+                      "rgba(75,192,192,0.5)",
+                      "rgba(153,102,255,0.5)",
+                      "rgba(0, 0, 255,0.5)",
+                      "rgba(255, 165, 0,0.5)",
+                      "rgb(255, 0, 0,0.5)",
+                      "rgba(60, 60, 60,0.5)",
+                      "rgba(180, 180, 180,0.5)",
+                    ],
                   },
                 ],
               }}
             />
             <p style={{ marginTop: 5 }}>Chung</p>
           </div>
-          <div style={{ width: "26vw", textAlign: "center" }}>
+          <div style={{ width: "30vw", textAlign: "center" }}>
             <Pie
               options={{
                 responsive: true,
-                maintainAspectRatio: true,
               }}
               data={{
                 labels: dataChamSocNam.labels,
                 datasets: [
                   {
                     data: dataChamSocNam.counts,
+                    backgroundColor: [
+                      "rgba(255,26,104,0.5)",
+                      "rgba(54,162,235,0.5)",
+                      "rgba(255,206,86,0.5)",
+                      "rgba(75,192,192,0.5)",
+                      "rgba(153,102,255,0.5)",
+                      "rgba(0, 0, 255,0.5)",
+                      "rgba(255, 165, 0,0.5)",
+                      "rgb(255, 0, 0,0.5)",
+                      "rgba(60, 60, 60,0.5)",
+                      "rgba(180, 180, 180,0.5)",
+                    ],
                   },
                 ],
               }}
             />
             <p style={{ marginTop: 5 }}>Theo Nam</p>
           </div>
-          <div style={{ width: "26vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-                maintainAspectRatio: true,
-              }}
-              data={{
-                labels: dataChamSocNu.labels,
-                datasets: [
-                  {
-                    data: dataChamSocNu.counts,
-                  },
-                ],
-              }}
-            />
-            <p style={{ marginTop: 5 }}>Theo Nữ</p>
-          </div>
+        </div>
+        <div style={{ width: "30vw", textAlign: "center" }}>
+          <Pie
+            options={{
+              responsive: true,
+            }}
+            data={{
+              labels: dataChamSocNu.labels,
+              datasets: [
+                {
+                  data: dataChamSocNu.counts,
+                  backgroundColor: [
+                    "rgba(255,26,104,0.5)",
+                    "rgba(54,162,235,0.5)",
+                    "rgba(255,206,86,0.5)",
+                    "rgba(75,192,192,0.5)",
+                    "rgba(153,102,255,0.5)",
+                    "rgba(0, 0, 255,0.5)",
+                    "rgba(255, 165, 0,0.5)",
+                    "rgb(255, 0, 0,0.5)",
+                    "rgba(60, 60, 60,0.5)",
+                    "rgba(180, 180, 180,0.5)",
+                  ],
+                },
+              ],
+            }}
+          />
+          <p style={{ marginTop: 5 }}>Theo Nữ</p>
         </div>
       </div>
     </>

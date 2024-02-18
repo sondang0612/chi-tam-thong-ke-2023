@@ -66,38 +66,46 @@ const ServicePieChart = ({ type }) => {
     <>
       <p
         style={{
-          position: "absolute",
           bottom: 25,
           fontSize: 24,
           fontWeight: 700,
-          right: "50%",
-          transform: "translateX(50%)",
           textAlign: "center",
+          paddingBottom: 20,
         }}
       >
         Thống kê Top 10 Dịch vụ {type !== "Chung" ? type : ""} được sử dụng
         nhiều năm 2023
       </p>
-      <div
-        style={{
-          position: "absolute",
-          right: "50%",
-          transform: "translateX(50%)",
-          top: 50,
-        }}
-      >
-        <div style={{ display: "flex" }}>
+      <div>
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          }}
+        >
           <div style={{ width: "25vw", textAlign: "center" }}>
             <Pie
               options={{
                 responsive: true,
-                maintainAspectRatio: true,
               }}
               data={{
                 labels: dataHairs.labels,
                 datasets: [
                   {
                     data: dataHairs.counts,
+                    backgroundColor: [
+                      "rgba(255,26,104,0.5)",
+                      "rgba(54,162,235,0.5)",
+                      "rgba(255,206,86,0.5)",
+                      "rgba(75,192,192,0.5)",
+                      "rgba(153,102,255,0.5)",
+                      "rgba(0, 0, 255,0.5)",
+                      "rgba(255, 165, 0,0.5)",
+                      "rgb(255, 0, 0,0.5)",
+                      "rgba(60, 60, 60,0.5)",
+                      "rgba(180, 180, 180,0.5)",
+                    ],
                   },
                 ],
               }}
@@ -108,13 +116,24 @@ const ServicePieChart = ({ type }) => {
             <Pie
               options={{
                 responsive: true,
-                maintainAspectRatio: true,
               }}
               data={{
                 labels: dataMassa.labels,
                 datasets: [
                   {
                     data: dataMassa.counts,
+                    backgroundColor: [
+                      "rgba(255,26,104,0.5)",
+                      "rgba(54,162,235,0.5)",
+                      "rgba(255,206,86,0.5)",
+                      "rgba(75,192,192,0.5)",
+                      "rgba(153,102,255,0.5)",
+                      "rgba(0, 0, 255,0.5)",
+                      "rgba(255, 165, 0,0.5)",
+                      "rgb(255, 0, 0,0.5)",
+                      "rgba(60, 60, 60,0.5)",
+                      "rgba(180, 180, 180,0.5)",
+                    ],
                   },
                 ],
               }}
@@ -125,13 +144,24 @@ const ServicePieChart = ({ type }) => {
             <Pie
               options={{
                 responsive: true,
-                maintainAspectRatio: true,
               }}
               data={{
                 labels: dataNails.labels,
                 datasets: [
                   {
                     data: dataNails.counts,
+                    backgroundColor: [
+                      "rgba(255,26,104,0.5)",
+                      "rgba(54,162,235,0.5)",
+                      "rgba(255,206,86,0.5)",
+                      "rgba(75,192,192,0.5)",
+                      "rgba(153,102,255,0.5)",
+                      "rgba(0, 0, 255,0.5)",
+                      "rgba(255, 165, 0,0.5)",
+                      "rgb(255, 0, 0,0.5)",
+                      "rgba(60, 60, 60,0.5)",
+                      "rgba(180, 180, 180,0.5)",
+                    ],
                   },
                 ],
               }}

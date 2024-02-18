@@ -11,36 +11,28 @@ const StaffCountPieChart = ({ type }) => {
     <>
       <p
         style={{
-          position: "absolute",
-          top: 10,
           fontSize: 24,
           fontWeight: 700,
-          right: "50%",
-          transform: "translateX(50%)",
+          textAlign: "center",
+          paddingBottom: 10,
         }}
       >
         Thống kê {type === staffTitles.main ? "Thợ chính " : "Top Thợ phụ"} 2023
       </p>
 
-      <div
-        style={{
-          position: "absolute",
-          right: "50%",
-          transform: "translateX(50%)",
-          top: 50,
-        }}
-      >
+      <div>
         <div
           style={{
             display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
           }}
         >
           {data.slice(0, 4).map((item) => (
-            <div key={item.name} style={{ width: "18vw", textAlign: "center" }}>
+            <div key={item.name} style={{ width: "20vw", textAlign: "center" }}>
               <Pie
                 options={{
                   responsive: true,
-                  maintainAspectRatio: true,
                 }}
                 key={item.name}
                 data={{
@@ -56,6 +48,18 @@ const StaffCountPieChart = ({ type }) => {
                         item.count.noi,
                         item.count.nhuom,
                       ],
+                      backgroundColor: [
+                        "rgba(255,26,104,0.5)",
+                        "rgba(54,162,235,0.5)",
+                        "rgba(255,206,86,0.5)",
+                        "rgba(75,192,192,0.5)",
+                        "rgba(153,102,255,0.5)",
+                        "rgba(0, 0, 255,0.5)",
+                        "rgba(255, 165, 0,0.5)",
+                        "rgb(255, 0, 0,0.5)",
+                        "rgba(60, 60, 60,0.5)",
+                        "rgba(180, 180, 180,0.5)",
+                      ],
                     },
                   ],
                 }}
@@ -68,14 +72,27 @@ const StaffCountPieChart = ({ type }) => {
           style={{
             display: "flex",
             marginTop: 20,
+            alignItems: "center",
+            justifyContent: "center",
           }}
         >
           {data.slice(4, 8).map((item) => (
-            <div key={item.name} style={{ width: "18vw", textAlign: "center" }}>
+            <div key={item.name} style={{ width: "20vw", textAlign: "center" }}>
               <Pie
                 options={{
                   responsive: true,
-                  maintainAspectRatio: true,
+                  backgroundColor: [
+                    "rgba(255,26,104,0.5)",
+                    "rgba(54,162,235,0.5)",
+                    "rgba(255,206,86,0.5)",
+                    "rgba(75,192,192,0.5)",
+                    "rgba(153,102,255,0.5)",
+                    "rgba(0, 0, 255,0.5)",
+                    "rgba(255, 165, 0,0.5)",
+                    "rgb(255, 0, 0,0.5)",
+                    "rgba(60, 60, 60,0.5)",
+                    "rgba(180, 180, 180,0.5)",
+                  ],
                 }}
                 key={item.name}
                 data={{
@@ -91,6 +108,18 @@ const StaffCountPieChart = ({ type }) => {
                         item.count.noi,
                         item.count.nhuom,
                       ],
+                      backgroundColor: [
+                        "rgba(255,26,104,0.5)",
+                        "rgba(54,162,235,0.5)",
+                        "rgba(255,206,86,0.5)",
+                        "rgba(75,192,192,0.5)",
+                        "rgba(153,102,255,0.5)",
+                        "rgba(0, 0, 255,0.5)",
+                        "rgba(255, 165, 0,0.5)",
+                        "rgb(255, 0, 0,0.5)",
+                        "rgba(60, 60, 60,0.5)",
+                        "rgba(180, 180, 180,0.5)",
+                      ],
                     },
                   ],
                 }}
@@ -99,12 +128,6 @@ const StaffCountPieChart = ({ type }) => {
             </div>
           ))}
         </div>
-        <div
-          style={{
-            display: "flex",
-            marginTop: 20,
-          }}
-        ></div>
       </div>
     </>
   );
