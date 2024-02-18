@@ -43,7 +43,6 @@ function App() {
   const [title1, setTitle1] = React.useState("");
   const [clickedData, setClickedData] = React.useState(undefined);
   const [modal, setModal] = React.useState(false);
-
   React.useEffect(() => {
     if (category === categories[2]) {
       setTitles(productTitles);
@@ -79,6 +78,8 @@ function App() {
     setModal(true);
     if (category === categories[1] || category === categories[2]) {
       setClickedData(getDetailsData(category, chart.text, index));
+    } else if (category === categories[3]) {
+      setClickedData(additionalData);
     }
   };
 

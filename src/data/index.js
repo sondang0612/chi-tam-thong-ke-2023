@@ -213,6 +213,7 @@ const staffsData = [
           item.services.length !== 0 ? item.services[0].name : ""
         })`
     ),
+    data: mainStaffNail.map((item) => item?.services[0]?.count || 0),
     commissions: mainStaffNail.map(
       (item) => item?.services[0]?.commission || 0
     ),

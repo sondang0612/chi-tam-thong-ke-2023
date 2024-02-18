@@ -7,6 +7,7 @@ const MainChart1 = ({ title, title1, onClickedData }) => {
   const result = React.useMemo(() => {
     return getStaffsData(title, title1);
   }, [title, title1]);
+
   return (
     <Bar
       ref={ref}
