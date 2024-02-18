@@ -1,140 +1,165 @@
 import React from "react";
-import { Line } from "react-chartjs-2";
-import revenue12Months2023 from "../data/revenue/2023.json";
-import revenue12Months2022 from "../data/revenue/2022.json";
+import { Pie } from "react-chartjs-2";
+import phanloai2023 from "../data/revenue/phanloai2023.json";
+import phanloai2024 from "../data/revenue/phanloai2024.json";
 
 const Revenue12Months = ({ title }) => {
-  const ref = React.useRef(null);
-  const data2023 = React.useMemo(() => {
+  const dataPhanloai2023 = React.useMemo(() => {
+    const labels = [];
+    const counts = [];
     let sum = 0;
-    let revenues = revenue12Months2023.map((item) => {
-      if (title === "Tổng tiền đã thu") {
-        sum += item.totalRevenue;
-        return item.totalRevenue;
-      } else {
-        sum += item.countOrders;
 
-        return item.countOrders;
-      }
+    phanloai2023.forEach((item) => {
+      labels.push(item.name);
+      counts.push(item.total);
+      sum += item.total;
     });
-    return { sum, revenues };
-  }, [title]);
+    return { labels, counts, sum };
+  }, []);
 
-  const data2022 = React.useMemo(() => {
+  const dataPhanloai2024 = React.useMemo(() => {
+    const labels = [];
+    const counts = [];
     let sum = 0;
-    let revenues = revenue12Months2022.map((item) => {
-      if (title === "Tổng tiền đã thu") {
-        sum += item.totalRevenue;
-        return item.totalRevenue;
-      } else {
-        sum += item.countOrders;
 
-        return item.countOrders;
-      }
+    phanloai2024.forEach((item) => {
+      labels.push(item.name);
+      counts.push(item.total);
+      sum += item.total;
     });
-    return { sum, revenues };
-  }, [title]);
+    return { labels, counts, sum };
+  }, []);
 
   return (
     <>
-      <Line
-        ref={ref}
-        options={{
-          responsive: true,
-          aspectRatio: false,
-          scales: {
-            y: { grid: { color: "transparent" } },
-            x: {
-              suggestedMax: 10,
-              grid: { color: "transparent" },
-            },
-          },
-          plugins: {
-            legend: {
-              display: false,
-            },
-          },
+      <p
+        style={{
+          fontSize: 24,
+          fontWeight: 700,
+          textAlign: "center",
+          paddingBottom: 20,
         }}
-        data={{
-          labels: Array.from(Array(12).keys()).map(
-            (item) => `Tháng ${item + 1}`
-          ),
-          datasets: [
-            {
-              fill: true,
-              data: data2023.revenues,
-              backgroundColor: "rgba(255,206,86,0.5)",
-              cubicInterpolationMode: "monotone",
-              label: "2023",
-            },
-            {
-              fill: true,
-              data: data2022.revenues,
-              cubicInterpolationMode: "monotone",
-              backgroundColor: "rgba(54,162,235,0.5)",
-              label: "2022",
-            },
-          ],
-        }}
-      />
+      >
+        Thống kê Doanh thu
+      </p>
       <div
         style={{
-          position: "absolute",
-          top: 20,
-          right: 20,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          gap: 100,
         }}
       >
         <div
           style={{
             display: "flex",
-            flexDirection: "row",
-            gap: 5,
             alignItems: "center",
+            justifyContent: "center",
           }}
         >
-          <div
-            style={{
-              width: 15,
-              height: 15,
-              backgroundColor: "rgb(54,162,235)",
-            }}
-          />
-          <p style={{ color: "rgb(54,162,235)" }} id="description_chart">
-            Năm 2022: Tổng&nbsp;
-            {title === "Tổng tiền đã thu"
-              ? new Intl.NumberFormat("vi-VN", {
-                  style: "currency",
-                  currency: "VND",
-                }).format(data2022?.sum || 0)
-              : `${data2022.sum} đơn`}
-          </p>
+          <div style={{ width: "25vw", textAlign: "center" }}>
+            <Pie
+              options={{
+                responsive: true,
+              }}
+              data={{
+                labels: dataPhanloai2023.labels,
+                datasets: [
+                  {
+                    data: dataPhanloai2023.counts,
+                    backgroundColor: [
+                      "rgba(255,26,104,0.5)",
+                      "rgba(54,162,235,0.5)",
+                      "rgba(255,206,86,0.5)",
+                      "rgba(75,192,192,0.5)",
+                      "rgba(153,102,255,0.5)",
+                      "rgba(0, 0, 255,0.5)",
+                      "rgba(255, 165, 0,0.5)",
+                      "rgb(255, 0, 0,0.5)",
+                      "rgba(60, 60, 60,0.5)",
+                      "rgba(180, 180, 180,0.5)",
+                    ],
+                  },
+                ],
+              }}
+            />
+            <div style={{ marginTop: 5 }}>
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
+                Năm 2023:&nbsp;
+                <span style={{ fontWeight: 700, fontSize: 18 }}>
+                  {new Intl.NumberFormat("vi-VN", {
+                    style: "currency",
+                    currency: "VND",
+                  }).format(dataPhanloai2023.sum || 0)}
+                </span>
+              </div>
+              <p style={{ fontSize: 14, color: "gray" }}>
+                (01-01-2023 - 01-12-2023)
+              </p>
+            </div>
+          </div>
         </div>
+
         <div
           style={{
             display: "flex",
-            flexDirection: "row",
-            gap: 5,
-            marginTop: 10,
             alignItems: "center",
+            justifyContent: "center",
           }}
-          id="description_chart"
         >
-          <div
-            style={{
-              width: 15,
-              height: 15,
-              backgroundColor: "rgb(255,206,86)",
-            }}
-          />
-          <p style={{ color: "rgb(255,206,86)" }}>
-            Năm 2023: Tổng&nbsp;
-            {title === "Tổng tiền đã thu"
-              ? new Intl.NumberFormat("vi-VN", {
-                  style: "currency",
-                  currency: "VND",
-                }).format(data2023?.sum || 0)
-              : `${data2023.sum} đơn`}
-          </p>
+          <div style={{ width: "25vw", textAlign: "center" }}>
+            <Pie
+              options={{
+                responsive: true,
+              }}
+              data={{
+                labels: dataPhanloai2024.labels,
+                datasets: [
+                  {
+                    data: dataPhanloai2024.counts,
+                    backgroundColor: [
+                      "rgba(255,26,104,0.5)",
+                      "rgba(54,162,235,0.5)",
+                      "rgba(255,206,86,0.5)",
+                      "rgba(75,192,192,0.5)",
+                      "rgba(153,102,255,0.5)",
+                      "rgba(0, 0, 255,0.5)",
+                      "rgba(255, 165, 0,0.5)",
+                      "rgb(255, 0, 0,0.5)",
+                      "rgba(60, 60, 60,0.5)",
+                      "rgba(180, 180, 180,0.5)",
+                    ],
+                  },
+                ],
+              }}
+            />
+            <div style={{ marginTop: 5 }}>
+              <span
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
+                Năm 2024:&nbsp;
+                <span style={{ fontWeight: 700, fontSize: 18 }}>
+                  {new Intl.NumberFormat("vi-VN", {
+                    style: "currency",
+                    currency: "VND",
+                  }).format(dataPhanloai2024.sum || 0)}
+                </span>
+              </span>
+              <p style={{ fontSize: 14, color: "gray" }}>
+                (01-01-2024 - 19-02-2024)
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </>

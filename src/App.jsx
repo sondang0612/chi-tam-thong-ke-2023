@@ -26,7 +26,7 @@ import ProductPieChart from "./components/ProductPieChart";
 Chart.register(CategoryScale);
 
 export const categories = [
-  "Doanh thu 12 tháng",
+  "Doanh thu",
   "Dịch vụ",
   "Sản phẩm",
   "Thợ",
