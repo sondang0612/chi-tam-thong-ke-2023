@@ -79,9 +79,6 @@ const Revenue12Months = ({ title }) => {
                   }).format(dataPhanloai2023.sum || 0)}
                 </span>
               </div>
-              <p style={{ fontSize: 14, color: "gray" }}>
-                (01-01-2023 - 01-12-2023)
-              </p>
             </div>
           </div>
         </div>
@@ -114,9 +111,6 @@ const Revenue12Months = ({ title }) => {
                   }).format(dataPhanloai2024.sum || 0)}
                 </span>
               </span>
-              <p style={{ fontSize: 14, color: "gray" }}>
-                (01-01-2024 - 19-02-2024)
-              </p>
             </div>
           </div>
         </div>
