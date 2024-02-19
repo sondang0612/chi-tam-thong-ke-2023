@@ -1,7 +1,7 @@
 [
   { "type": "PRODUCT", "name": "Sản phẩm", "total": 3372509378.7099996 },
-  { "type": "HAIR", "name": "Dịch vụ Tóc", "total": 23316974284 },
-  { "type": "NAIL", "name": "Dịch vụ Nail", "total": 4202751504.4299994 },
-  { "type": "MASSA", "name": "Dịch vụ Massa", "total": 1117750202.02 },
+  { "type": "HAIR", "name": "Dịch vụ Tóc", "total": 22951804049.3 },
+  { "type": "NAIL", "name": "Dịch vụ Nail", "total": 4494887693.26 },
+  { "type": "MASSA", "name": "Dịch vụ Massa", "total": 1190784248.96 },
   { "type": "OTHER_SERVICE", "name": "Thẻ", "total": 8179920000 }
 ]
