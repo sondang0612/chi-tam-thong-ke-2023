@@ -1,191 +1,37 @@
 [
   {
-    "id": "CNAM",
-    "count": 479,
-    "type": "SERVICE",
-    "staffCommissions": [],
-    "staffNames": ["MAI MAI", "NTMT CHÍ TÂM"],
-    "male": {
-      "count": 182,
-      "memberCardDiscount": 13725000,
-      "revenue": 53882500,
-      "revenueAfterDiscount": 67607500,
-      "revenueBeforeDiscount": 81900000
-    },
-    "female": {
-      "count": 297,
-      "memberCardDiscount": 19980000,
-      "revenue": 91426250,
-      "revenueAfterDiscount": 111406250,
-      "revenueBeforeDiscount": 133650000
-    },
-    "name": "CẮT TÓC NAM MASTER  HAIR DESIGNER",
-    "revenueBeforeDiscount": 215550000,
-    "revenueAfterDiscount": 179013750,
-    "memberCardDiscount": 33705000,
-    "revenue": 145308750,
-    "serviceName": "HAIR"
-  },
-  {
-    "id": "CNAH",
-    "count": 920,
-    "type": "SERVICE",
-    "staffCommissions": [],
-    "staffNames": ["NHÍM", "STYLIST DUY"],
-    "male": {
-      "count": 165,
-      "memberCardDiscount": 1500000,
-      "revenue": 37301917.1,
-      "revenueAfterDiscount": 38801917.1,
-      "revenueBeforeDiscount": 49320000
-    },
-    "female": {
-      "count": 755,
-      "memberCardDiscount": 15569000,
-      "revenue": 175616000,
-      "revenueAfterDiscount": 191185000,
-      "revenueBeforeDiscount": 226500000
-    },
-    "name": "CẮT TÓC NAM HOT HAIR DESIGNER",
-    "revenueBeforeDiscount": 275820000,
-    "revenueAfterDiscount": 229986917.1,
-    "memberCardDiscount": 17069000,
-    "revenue": 212917917.1,
-    "serviceName": "HAIR"
-  },
-  {
-    "id": "TẨY TBC DA ĐẦU",
-    "count": 1825,
-    "type": "SERVICE",
-    "staffCommissions": [28600],
-    "staffNames": ["MAI MAI"],
-    "male": {
-      "count": 157,
-      "memberCardDiscount": 3540000,
-      "revenue": 19195930.92,
-      "revenueAfterDiscount": 22735930.92,
-      "revenueBeforeDiscount": 39750000
-    },
-    "female": {
-      "count": 1668,
-      "memberCardDiscount": 87840000,
-      "revenue": 283141319.96999997,
-      "revenueAfterDiscount": 370981319.96999997,
-      "revenueBeforeDiscount": 421290000
-    },
-    "name": "TẨY TBC DA ĐẦU",
-    "revenueBeforeDiscount": 461040000,
-    "revenueAfterDiscount": 393717250.89,
-    "memberCardDiscount": 91380000,
-    "revenue": 302337250.89,
-    "serviceName": "HAIR"
-  },
-  {
-    "id": "xa",
-    "count": 727,
-    "type": "SERVICE",
-    "staffCommissions": [10000],
-    "staffNames": ["NGỌC TRANG"],
-    "male": {
-      "count": 138,
-      "memberCardDiscount": 50000,
-      "revenue": 6420000,
-      "revenueAfterDiscount": 6470000,
-      "revenueBeforeDiscount": 6900000
-    },
-    "female": {
-      "count": 589,
-      "memberCardDiscount": 1300000,
-      "revenue": 27332500,
-      "revenueAfterDiscount": 28632500,
-      "revenueBeforeDiscount": 29450000
-    },
-    "name": "XẢ SẠCH",
-    "revenueBeforeDiscount": 36350000,
-    "revenueAfterDiscount": 35102500,
-    "memberCardDiscount": 1350000,
-    "revenue": 33752500,
-    "serviceName": "HAIR"
-  },
-  {
-    "id": "CNABYC",
-    "count": 316,
-    "type": "SERVICE",
-    "staffCommissions": [],
-    "staffNames": ["PHƯỢNG", "STYLIST BI"],
-    "male": {
-      "count": 137,
-      "memberCardDiscount": 4375000,
-      "revenue": 30367500,
-      "revenueAfterDiscount": 34742500,
-      "revenueBeforeDiscount": 47950000
-    },
-    "female": {
-      "count": 179,
-      "memberCardDiscount": 16802000,
-      "revenue": 32793000,
-      "revenueAfterDiscount": 49595000,
-      "revenueBeforeDiscount": 62650000
-    },
-    "name": "CẮT TÓC NAM BEST SELLER HAIR DESIGNER YC",
-    "revenueBeforeDiscount": 110600000,
-    "revenueAfterDiscount": 84337500,
-    "memberCardDiscount": 21177000,
-    "revenue": 63160500,
-    "serviceName": "HAIR"
+    "id": "DV613977",
+    "count": 626,
+    "name": "GỘI THƯ GIÃN  40P TÓC NAM"
   },
   {
     "id": "CNAHYC",
     "count": 441,
-    "type": "SERVICE",
-    "staffCommissions": [],
-    "staffNames": ["NƯƠNG", "STYLIST DUY"],
-    "male": {
-      "count": 116,
-      "memberCardDiscount": 1620000,
-      "revenue": 25550000,
-      "revenueAfterDiscount": 27170000,
-      "revenueBeforeDiscount": 34800000
-    },
-    "female": {
-      "count": 325,
-      "memberCardDiscount": 16385000,
-      "revenue": 55876666.67,
-      "revenueAfterDiscount": 72261666.67,
-      "revenueBeforeDiscount": 97500000
-    },
-    "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC",
-    "revenueBeforeDiscount": 132300000,
-    "revenueAfterDiscount": 99431666.67,
-    "memberCardDiscount": 18005000,
-    "revenue": 81426666.67,
-    "serviceName": "HAIR"
+    "name": "CẮT TÓC NAM HOT HAIR DESIGNER YC"
   },
   {
-    "id": "YCNA",
-    "count": 397,
-    "type": "SERVICE",
-    "staffCommissions": [10000],
-    "staffNames": ["THANH THANH"],
-    "male": {
-      "count": 116,
-      "memberCardDiscount": 0,
-      "revenue": 0,
-      "revenueAfterDiscount": 0,
-      "revenueBeforeDiscount": 0
-    },
-    "female": {
-      "count": 281,
-      "memberCardDiscount": 0,
-      "revenue": 0,
-      "revenueAfterDiscount": 0,
-      "revenueBeforeDiscount": 0
-    },
-    "name": "KHÁCH YC NAM",
-    "revenueBeforeDiscount": 0,
-    "revenueAfterDiscount": 0,
-    "memberCardDiscount": 0,
-    "revenue": 0,
-    "serviceName": "HAIR"
+    "id": "DV517916",
+    "count": 333,
+    "name": "GỘI KERASTASE  TÓC NAM  TRỊ RỤNG - SUÔN MƯỢT"
+  },
+  {
+    "id": "tam",
+    "count": 196,
+    "name": "CẮT TÓC NAM  NTMT CHÍ TÂM"
+  },
+  {
+    "id": "tam",
+    "count": 196,
+    "name": "CẮT TÓC NAM MASTER  HAIR DESIGNER YC"
+  },
+  {
+    "id": "UNAH",
+    "count": 76,
+    "name": "UỐN / DUỖI  TÓC NAM HOT HAIR DESIGNER"
+  },
+  {
+    "id": "DV10544",
+    "count": 67,
+    "name": "PHỤC HỒI MILBON  / 3C TÓC NAM"
   }
 ]

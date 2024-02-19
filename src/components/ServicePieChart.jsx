@@ -28,8 +28,8 @@ const ServicePieChart = ({ type }) => {
         type === "Chung"
           ? item.count
           : type === "Theo Nam"
-          ? item.male.count
-          : item.female.count
+          ? item.count
+          : item.count
       );
     });
     return { labels, counts };

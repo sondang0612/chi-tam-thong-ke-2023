@@ -106,12 +106,6 @@ const serviceData = [
     text: serviceTitles.top10HairsFemale,
   },
   {
-    labels: top10HairMales.map((item) => item.name),
-    data: top10HairMales.map((item) => item.male.count),
-    revenues: top10HairMales.map((item) => item.revenue),
-    text: serviceTitles.top10HairsMale,
-  },
-  {
     labels: top10Massas.map((item) => item.name),
     data: top10Massas.map((item) => item.count),
     revenues: top10Massas.map((item) => item.revenue),

@@ -28,7 +28,7 @@
   },
   {
     "id": "YCN",
-    "count": 2503,
+    "count": 2054,
     "type": "SERVICE",
     "staffCommissions": [20000],
     "staffNames": ["HUỆ"],
@@ -40,13 +40,13 @@
       "revenueBeforeDiscount": 0
     },
     "female": {
-      "count": 2466,
+      "count": 2017,
       "memberCardDiscount": 0,
       "revenue": 0,
       "revenueAfterDiscount": 0,
       "revenueBeforeDiscount": 0
     },
-    "name": "KHÁCH YC NỮ",
+    "name": "GỘI XẢ OLAPLEX",
     "revenueBeforeDiscount": 0,
     "revenueAfterDiscount": 0,
     "memberCardDiscount": 0,
@@ -136,25 +136,25 @@
   },
   {
     "id": "GOD",
-    "count": 1744,
+    "count": 2220,
     "type": "SERVICE",
     "staffCommissions": [58800],
     "staffNames": ["MỸ"],
     "male": {
-      "count": 19,
+      "count": 39,
       "memberCardDiscount": 0,
       "revenue": 4392000,
       "revenueAfterDiscount": 4392000,
       "revenueBeforeDiscount": 5420000
     },
     "female": {
-      "count": 1725,
+      "count": 2181,
       "memberCardDiscount": 65380000,
       "revenue": 335596217.32000005,
       "revenueAfterDiscount": 400976217.32,
       "revenueBeforeDiscount": 483650000
     },
-    "name": "GỘI XẢ OLAPLEX TÓC DÀI",
+    "name": "OLAPLEX 20%",
     "revenueBeforeDiscount": 489070000,
     "revenueAfterDiscount": 405368217.32,
     "memberCardDiscount": 65380000,
@@ -163,7 +163,7 @@
   },
   {
     "id": "BẢO VỆ DA ĐẦU",
-    "count": 1687,
+    "count": 2318,
     "type": "SERVICE",
     "staffCommissions": [55000],
     "staffNames": ["HẠNH"],
@@ -175,7 +175,7 @@
       "revenueBeforeDiscount": 43000000
     },
     "female": {
-      "count": 1601,
+      "count": 2232,
       "memberCardDiscount": 240622293.02,
       "revenue": 449357076.81,
       "revenueAfterDiscount": 689979369.8299999,

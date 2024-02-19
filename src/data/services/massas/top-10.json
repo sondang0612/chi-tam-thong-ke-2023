@@ -81,31 +81,10 @@
     "serviceName": "MASSA"
   },
   {
-    "id": "DV76940",
-    "count": 273,
+    "id": "DV187663",
+    "count": 75,
     "type": "SERVICE",
-    "staffCommissions": [70000],
-    "staffNames": ["NGỌC FOOT"],
-    "male": {
-      "count": 7,
-      "memberCardDiscount": 0,
-      "revenue": 1888000,
-      "revenueAfterDiscount": 1888000,
-      "revenueBeforeDiscount": 2240000
-    },
-    "female": {
-      "count": 266,
-      "memberCardDiscount": 26075459.520000003,
-      "revenue": 53338100,
-      "revenueAfterDiscount": 79413559.52,
-      "revenueBeforeDiscount": 85000000
-    },
-    "name": "SPA CHÂN",
-    "revenueBeforeDiscount": 87240000,
-    "revenueAfterDiscount": 81301559.52,
-    "memberCardDiscount": 26075459.520000003,
-    "revenue": 55226100,
-    "serviceName": "MASSA"
+    "name": "MASSAGE BODY 90P"
   },
   {
     "id": "DV687924",
@@ -135,57 +114,17 @@
     "serviceName": "MASSA"
   },
   {
-    "id": "DV187661",
-    "count": 115,
+    "id": "DV64503",
+    "count": 383,
     "type": "SERVICE",
-    "staffCommissions": [180000],
-    "staffNames": ["NGỌC FOOT"],
-    "male": {
-      "count": 8,
-      "memberCardDiscount": 0,
-      "revenue": 3750000,
-      "revenueAfterDiscount": 3750000,
-      "revenueBeforeDiscount": 4000000
-    },
-    "female": {
-      "count": 107,
-      "memberCardDiscount": 9220000,
-      "revenue": 41630000,
-      "revenueAfterDiscount": 50850000,
-      "revenueBeforeDiscount": 53500000
-    },
-    "name": "MASSAGE BODY 60P",
-    "revenueBeforeDiscount": 57500000,
-    "revenueAfterDiscount": 54600000,
-    "memberCardDiscount": 9220000,
-    "revenue": 45380000,
+    "name": "MASSAGE DẦU DỪA",
     "serviceName": "MASSA"
   },
   {
-    "id": "DV187663",
-    "count": 75,
+    "id": "DV95972",
+    "count": 1102,
     "type": "SERVICE",
-    "staffCommissions": [210000],
-    "staffNames": ["MỸ"],
-    "male": {
-      "count": 3,
-      "memberCardDiscount": 0,
-      "revenue": 650000,
-      "revenueAfterDiscount": 650000,
-      "revenueBeforeDiscount": 1950000
-    },
-    "female": {
-      "count": 72,
-      "memberCardDiscount": 14950000,
-      "revenue": 29412500,
-      "revenueAfterDiscount": 44362500,
-      "revenueBeforeDiscount": 46800000
-    },
-    "name": "MASSAGE BODY 90P",
-    "revenueBeforeDiscount": 48750000,
-    "revenueAfterDiscount": 45012500,
-    "memberCardDiscount": 14950000,
-    "revenue": 30062500,
+    "name": "MASSAGE Vai",
     "serviceName": "MASSA"
   }
 ]
