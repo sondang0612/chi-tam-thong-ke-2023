@@ -4,6 +4,7 @@ import top10chamsocNam from "../data/products/top-10-cham-soc-nam.json";
 import top10chamsocNu from "../data/products/top-10-cham-soc-nu.json";
 
 import { Pie } from "react-chartjs-2";
+import MyPieChart from "./MyPieChart";
 const ProductPieChart = ({ type }) => {
   const dataChamSoc = React.useMemo(() => {
     const labels = [];
@@ -65,87 +66,21 @@ const ProductPieChart = ({ type }) => {
           }}
         >
           <div style={{ width: "30vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-              }}
-              data={{
-                labels: dataChamSoc.labels,
-                datasets: [
-                  {
-                    data: dataChamSoc.counts,
-                    backgroundColor: [
-                      "rgba(255,26,104,0.5)",
-                      "rgba(54,162,235,0.5)",
-                      "rgba(255,206,86,0.5)",
-                      "rgba(75,192,192,0.5)",
-                      "rgba(153,102,255,0.5)",
-                      "rgba(0, 0, 255,0.5)",
-                      "rgba(255, 165, 0,0.5)",
-                      "rgb(255, 0, 0,0.5)",
-                      "rgba(60, 60, 60,0.5)",
-                      "rgba(180, 180, 180,0.5)",
-                    ],
-                  },
-                ],
-              }}
-            />
+            <MyPieChart data={dataChamSoc.counts} labels={dataChamSoc.labels} />
             <p style={{ marginTop: 5 }}>Chung</p>
           </div>
           <div style={{ width: "30vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-              }}
-              data={{
-                labels: dataChamSocNam.labels,
-                datasets: [
-                  {
-                    data: dataChamSocNam.counts,
-                    backgroundColor: [
-                      "rgba(255,26,104,0.5)",
-                      "rgba(54,162,235,0.5)",
-                      "rgba(255,206,86,0.5)",
-                      "rgba(75,192,192,0.5)",
-                      "rgba(153,102,255,0.5)",
-                      "rgba(0, 0, 255,0.5)",
-                      "rgba(255, 165, 0,0.5)",
-                      "rgb(255, 0, 0,0.5)",
-                      "rgba(60, 60, 60,0.5)",
-                      "rgba(180, 180, 180,0.5)",
-                    ],
-                  },
-                ],
-              }}
+            <MyPieChart
+              data={dataChamSocNam.counts}
+              labels={dataChamSocNam.labels}
             />
             <p style={{ marginTop: 5 }}>Theo Nam</p>
           </div>
         </div>
         <div style={{ width: "30vw", textAlign: "center" }}>
-          <Pie
-            options={{
-              responsive: true,
-            }}
-            data={{
-              labels: dataChamSocNu.labels,
-              datasets: [
-                {
-                  data: dataChamSocNu.counts,
-                  backgroundColor: [
-                    "rgba(255,26,104,0.5)",
-                    "rgba(54,162,235,0.5)",
-                    "rgba(255,206,86,0.5)",
-                    "rgba(75,192,192,0.5)",
-                    "rgba(153,102,255,0.5)",
-                    "rgba(0, 0, 255,0.5)",
-                    "rgba(255, 165, 0,0.5)",
-                    "rgb(255, 0, 0,0.5)",
-                    "rgba(60, 60, 60,0.5)",
-                    "rgba(180, 180, 180,0.5)",
-                  ],
-                },
-              ],
-            }}
+          <MyPieChart
+            data={dataChamSocNu.counts}
+            labels={dataChamSocNu.labels}
           />
           <p style={{ marginTop: 5 }}>Theo Nữ</p>
         </div>

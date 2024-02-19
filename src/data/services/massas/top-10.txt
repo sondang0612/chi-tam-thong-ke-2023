@@ -1,0 +1,27 @@
+  {
+    "id": "DV687923",
+    "count": 49,
+    "type": "SERVICE",
+    "staffCommissions": [40000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 140000,
+      "revenueAfterDiscount": 140000,
+      "revenueBeforeDiscount": 560000
+    },
+    "female": {
+      "count": 45,
+      "memberCardDiscount": 2240000,
+      "revenue": 2996000,
+      "revenueAfterDiscount": 5236000,
+      "revenueBeforeDiscount": 6300000
+    },
+    "name": "MASSAGE  TAY 40'",
+    "revenueBeforeDiscount": 6860000,
+    "revenueAfterDiscount": 5376000,
+    "memberCardDiscount": 2240000,
+    "revenue": 3136000,
+    "serviceName": "MASSA"
+  }

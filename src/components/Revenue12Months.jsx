@@ -2,6 +2,7 @@ import React from "react";
 import { Pie } from "react-chartjs-2";
 import phanloai2023 from "../data/revenue/phanloai2023.json";
 import phanloai2024 from "../data/revenue/phanloai2024.json";
+import MyPieChart from "./MyPieChart";
 
 const Revenue12Months = ({ title }) => {
   const dataPhanloai2023 = React.useMemo(() => {
@@ -58,30 +59,9 @@ const Revenue12Months = ({ title }) => {
           }}
         >
           <div style={{ width: "25vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-              }}
-              data={{
-                labels: dataPhanloai2023.labels,
-                datasets: [
-                  {
-                    data: dataPhanloai2023.counts,
-                    backgroundColor: [
-                      "rgba(255,26,104,0.5)",
-                      "rgba(54,162,235,0.5)",
-                      "rgba(255,206,86,0.5)",
-                      "rgba(75,192,192,0.5)",
-                      "rgba(153,102,255,0.5)",
-                      "rgba(0, 0, 255,0.5)",
-                      "rgba(255, 165, 0,0.5)",
-                      "rgb(255, 0, 0,0.5)",
-                      "rgba(60, 60, 60,0.5)",
-                      "rgba(180, 180, 180,0.5)",
-                    ],
-                  },
-                ],
-              }}
+            <MyPieChart
+              labels={dataPhanloai2023.labels}
+              data={dataPhanloai2023.counts}
             />
             <div style={{ marginTop: 5 }}>
               <div
@@ -114,30 +94,9 @@ const Revenue12Months = ({ title }) => {
           }}
         >
           <div style={{ width: "25vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-              }}
-              data={{
-                labels: dataPhanloai2024.labels,
-                datasets: [
-                  {
-                    data: dataPhanloai2024.counts,
-                    backgroundColor: [
-                      "rgba(255,26,104,0.5)",
-                      "rgba(54,162,235,0.5)",
-                      "rgba(255,206,86,0.5)",
-                      "rgba(75,192,192,0.5)",
-                      "rgba(153,102,255,0.5)",
-                      "rgba(0, 0, 255,0.5)",
-                      "rgba(255, 165, 0,0.5)",
-                      "rgb(255, 0, 0,0.5)",
-                      "rgba(60, 60, 60,0.5)",
-                      "rgba(180, 180, 180,0.5)",
-                    ],
-                  },
-                ],
-              }}
+            <MyPieChart
+              labels={dataPhanloai2024.labels}
+              data={dataPhanloai2024.counts}
             />
             <div style={{ marginTop: 5 }}>
               <span

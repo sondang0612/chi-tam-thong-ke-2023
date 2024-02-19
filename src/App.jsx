@@ -3,9 +3,13 @@ import Chart from "chart.js/auto";
 import React from "react";
 
 import { Modal } from "antd";
-import MainChart from "./components/MainChart";
+import ChartDataLabels from "chartjs-plugin-datalabels";
 import MySelect from "./components/MySelect";
+import ProductPieChart from "./components/ProductPieChart";
 import Revenue12Months from "./components/Revenue12Months";
+import ServicePieChart from "./components/ServicePieChart";
+import StaffCountPieChart from "./components/StaffCountPieChart";
+import StaffRevenue from "./components/StaffRevenue";
 import {
   getChartData,
   getDetailsData,
@@ -15,14 +19,8 @@ import {
   serviceTitles,
   staffSalaryTitles,
   staffTitles,
-  staffTitles1,
 } from "./data";
-import MainChart1 from "./components/MainChart1";
-import DoubleChartBar from "./components/DoubleChartBar";
-import StaffCountPieChart from "./components/StaffCountPieChart";
-import ServicePieChart from "./components/ServicePieChart";
-import ProductPieChart from "./components/ProductPieChart";
-
+Chart.register(ChartDataLabels);
 Chart.register(CategoryScale);
 
 export const categories = [
@@ -121,7 +119,7 @@ function App() {
         ) : category === categories[3] ? (
           <StaffCountPieChart type={title} />
         ) : category === categories[4] ? (
-          <DoubleChartBar onClickedData={onClickedData} title={title} />
+          <StaffRevenue />
         ) : category === categories[1] ? (
           <ServicePieChart type={title} />
         ) : (

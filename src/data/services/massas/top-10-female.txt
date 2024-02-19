@@ -1,0 +1,81 @@
+  {
+    "id": "DV687896",
+    "count": 45,
+    "type": "SERVICE",
+    "staffCommissions": [300000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 45,
+      "memberCardDiscount": 6698136.16,
+      "revenue": 10800000,
+      "revenueAfterDiscount": 17498136.16,
+      "revenueBeforeDiscount": 20250000
+    },
+    "name": "MASSAGE FOOT 90'",
+    "revenueBeforeDiscount": 20250000,
+    "revenueAfterDiscount": 17498136.16,
+    "memberCardDiscount": 6698136.16,
+    "revenue": 10800000,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV687923",
+    "count": 49,
+    "type": "SERVICE",
+    "staffCommissions": [40000],
+    "staffNames": ["NGỌC FOOT"],
+    "male": {
+      "count": 4,
+      "memberCardDiscount": 0,
+      "revenue": 140000,
+      "revenueAfterDiscount": 140000,
+      "revenueBeforeDiscount": 560000
+    },
+    "female": {
+      "count": 45,
+      "memberCardDiscount": 2240000,
+      "revenue": 2996000,
+      "revenueAfterDiscount": 5236000,
+      "revenueBeforeDiscount": 6300000
+    },
+    "name": "MASSAGE  TAY 40'",
+    "revenueBeforeDiscount": 6860000,
+    "revenueAfterDiscount": 5376000,
+    "memberCardDiscount": 2240000,
+    "revenue": 3136000,
+    "serviceName": "MASSA"
+  },
+  {
+    "id": "DV687905",
+    "count": 26,
+    "type": "SERVICE",
+    "staffCommissions": [10000],
+    "staffNames": ["MỸ"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 26,
+      "memberCardDiscount": 400000,
+      "revenue": 840000,
+      "revenueAfterDiscount": 1240000,
+      "revenueBeforeDiscount": 1300000
+    },
+    "name": "KEM LÀM MỀM CHÂN ( MỸ)",
+    "revenueBeforeDiscount": 1300000,
+    "revenueAfterDiscount": 1240000,
+    "memberCardDiscount": 400000,
+    "revenue": 840000,
+    "serviceName": "MASSA"
+  }

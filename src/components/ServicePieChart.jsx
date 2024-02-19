@@ -11,7 +11,7 @@ import top10HairsMale from "../data/services/hairs/top-10-male.json";
 import top10NailsMale from "../data/services/nails/top-10-male.json";
 import top10MassaMale from "../data/services/massas/top-10-male.json";
 
-import { Pie } from "react-chartjs-2";
+import MyPieChart from "./MyPieChart";
 const ServicePieChart = ({ type }) => {
   const dataHairs = React.useMemo(() => {
     const labels = [];
@@ -24,7 +24,13 @@ const ServicePieChart = ({ type }) => {
         : top10HairsFemale;
     data.forEach((item) => {
       labels.push(item.name);
-      counts.push(item.count);
+      counts.push(
+        type === "Chung"
+          ? item.count
+          : type === "Theo Nam"
+          ? item.male.count
+          : item.female.count
+      );
     });
     return { labels, counts };
   }, [type]);
@@ -41,7 +47,13 @@ const ServicePieChart = ({ type }) => {
 
     data.forEach((item) => {
       labels.push(item.name);
-      counts.push(item.count);
+      counts.push(
+        type === "Chung"
+          ? item.count
+          : type === "Theo Nam"
+          ? item.male.count
+          : item.female.count
+      );
     });
     return { labels, counts };
   }, [type]);
@@ -57,7 +69,13 @@ const ServicePieChart = ({ type }) => {
         : top10NailsFemale;
     data.forEach((item) => {
       labels.push(item.name);
-      counts.push(item.count);
+      counts.push(
+        type === "Chung"
+          ? item.count
+          : type === "Theo Nam"
+          ? item.male.count
+          : item.female.count
+      );
     });
     return { labels, counts };
   }, [type]);
@@ -73,8 +91,8 @@ const ServicePieChart = ({ type }) => {
           paddingBottom: 20,
         }}
       >
-        Thống kê Top 10 Dịch vụ {type !== "Chung" ? type : ""} được sử dụng
-        nhiều năm 2023
+        Thống kê Top Dịch vụ {type !== "Chung" ? type : ""} được sử dụng nhiều
+        năm 2023
       </p>
       <div>
         <div
@@ -85,88 +103,16 @@ const ServicePieChart = ({ type }) => {
           }}
         >
           <div style={{ width: "25vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-              }}
-              data={{
-                labels: dataHairs.labels,
-                datasets: [
-                  {
-                    data: dataHairs.counts,
-                    backgroundColor: [
-                      "rgba(255,26,104,0.5)",
-                      "rgba(54,162,235,0.5)",
-                      "rgba(255,206,86,0.5)",
-                      "rgba(75,192,192,0.5)",
-                      "rgba(153,102,255,0.5)",
-                      "rgba(0, 0, 255,0.5)",
-                      "rgba(255, 165, 0,0.5)",
-                      "rgb(255, 0, 0,0.5)",
-                      "rgba(60, 60, 60,0.5)",
-                      "rgba(180, 180, 180,0.5)",
-                    ],
-                  },
-                ],
-              }}
-            />
-            <p style={{ marginTop: 5 }}>Hairs</p>
-          </div>
-          <div style={{ width: "25vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-              }}
-              data={{
-                labels: dataMassa.labels,
-                datasets: [
-                  {
-                    data: dataMassa.counts,
-                    backgroundColor: [
-                      "rgba(255,26,104,0.5)",
-                      "rgba(54,162,235,0.5)",
-                      "rgba(255,206,86,0.5)",
-                      "rgba(75,192,192,0.5)",
-                      "rgba(153,102,255,0.5)",
-                      "rgba(0, 0, 255,0.5)",
-                      "rgba(255, 165, 0,0.5)",
-                      "rgb(255, 0, 0,0.5)",
-                      "rgba(60, 60, 60,0.5)",
-                      "rgba(180, 180, 180,0.5)",
-                    ],
-                  },
-                ],
-              }}
-            />
-            <p style={{ marginTop: 5 }}>Massa</p>
-          </div>
-          <div style={{ width: "25vw", textAlign: "center" }}>
-            <Pie
-              options={{
-                responsive: true,
-              }}
-              data={{
-                labels: dataNails.labels,
-                datasets: [
-                  {
-                    data: dataNails.counts,
-                    backgroundColor: [
-                      "rgba(255,26,104,0.5)",
-                      "rgba(54,162,235,0.5)",
-                      "rgba(255,206,86,0.5)",
-                      "rgba(75,192,192,0.5)",
-                      "rgba(153,102,255,0.5)",
-                      "rgba(0, 0, 255,0.5)",
-                      "rgba(255, 165, 0,0.5)",
-                      "rgb(255, 0, 0,0.5)",
-                      "rgba(60, 60, 60,0.5)",
-                      "rgba(180, 180, 180,0.5)",
-                    ],
-                  },
-                ],
-              }}
-            />
+            <MyPieChart labels={dataHairs.labels} data={dataHairs.counts} />
             <p style={{ marginTop: 5 }}>Tóc</p>
+          </div>
+          <div style={{ width: "25vw", textAlign: "center" }}>
+            <MyPieChart labels={dataMassa.labels} data={dataMassa.counts} />
+            <p style={{ marginTop: 5 }}>Massage</p>
+          </div>
+          <div style={{ width: "25vw", textAlign: "center" }}>
+            <MyPieChart labels={dataNails.labels} data={dataNails.counts} />
+            <p style={{ marginTop: 5 }}>Nail</p>
           </div>
         </div>
       </div>

@@ -1,0 +1,81 @@
+  {
+    "id": "20%",
+    "count": 1449,
+    "type": "SERVICE",
+    "staffCommissions": [20000],
+    "staffNames": ["Tiền TT"],
+    "male": {
+      "count": 65,
+      "memberCardDiscount": 2730000,
+      "revenue": 8086177.89,
+      "revenueAfterDiscount": 10816177.89,
+      "revenueBeforeDiscount": 21690000
+    },
+    "female": {
+      "count": 1384,
+      "memberCardDiscount": 194080384.66,
+      "revenue": 372831142.41999996,
+      "revenueAfterDiscount": 566911527.08,
+      "revenueBeforeDiscount": 643108000
+    },
+    "name": "OLAPLEX  BOND + 20%/ DV HÓA CHẤT",
+    "revenueBeforeDiscount": 664798000,
+    "revenueAfterDiscount": 577727704.9699999,
+    "memberCardDiscount": 196810384.66,
+    "revenue": 380917320.30999994,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "DV606889",
+    "count": 1157,
+    "type": "SERVICE",
+    "staffCommissions": [58800],
+    "staffNames": ["MAI"],
+    "male": {
+      "count": 101,
+      "memberCardDiscount": 460000,
+      "revenue": 23332000,
+      "revenueAfterDiscount": 23792000,
+      "revenueBeforeDiscount": 25150000
+    },
+    "female": {
+      "count": 1056,
+      "memberCardDiscount": 27926189.509999998,
+      "revenue": 241116462.91,
+      "revenueAfterDiscount": 269042652.41999996,
+      "revenueBeforeDiscount": 278880000
+    },
+    "name": "GỘI XẢ OLAPLEX",
+    "revenueBeforeDiscount": 304030000,
+    "revenueAfterDiscount": 292834652.41999996,
+    "memberCardDiscount": 28386189.509999998,
+    "revenue": 264448462.91,
+    "serviceName": "HAIR"
+  },
+  {
+    "id": "50NOILONG",
+    "count": 1144,
+    "type": "SERVICE",
+    "staffCommissions": [1200000],
+    "staffNames": ["NHUNG"],
+    "male": {
+      "count": 0,
+      "memberCardDiscount": 0,
+      "revenue": 0,
+      "revenueAfterDiscount": 0,
+      "revenueBeforeDiscount": 0
+    },
+    "female": {
+      "count": 1144,
+      "memberCardDiscount": 1740000,
+      "revenue": 50700000,
+      "revenueAfterDiscount": 52440000,
+      "revenueBeforeDiscount": 68640000
+    },
+    "name": "NỐI TÓC LÔNG VŨ 50CM",
+    "revenueBeforeDiscount": 68640000,
+    "revenueAfterDiscount": 52440000,
+    "memberCardDiscount": 1740000,
+    "revenue": 50700000,
+    "serviceName": "HAIR"
+  }
