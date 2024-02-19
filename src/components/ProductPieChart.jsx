@@ -21,7 +21,7 @@ const ProductPieChart = ({ type }) => {
     const counts = [];
     top10chamsocNam.forEach((item) => {
       labels.push(item.name);
-      counts.push(item.count);
+      counts.push(item.male.count);
     });
     return { labels, counts };
   }, [type]);
@@ -31,7 +31,7 @@ const ProductPieChart = ({ type }) => {
     const counts = [];
     top10chamsocNu.forEach((item) => {
       labels.push(item.name);
-      counts.push(item.count);
+      counts.push(item.female.count);
     });
     return { labels, counts };
   }, [type]);
