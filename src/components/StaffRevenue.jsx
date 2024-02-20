@@ -31,7 +31,9 @@ const StaffRevenue = () => {
                 labels={["Doanh thu", "Lương"]}
                 data={[item.revenue, item.salary]}
               />
-              <p style={{ marginTop: 5 }}>{item.name}</p>
+              <p style={{ marginTop: 5, fontSize: 12, fontWeight: 700 }}>
+                {item.name}
+              </p>
             </div>
           ))}
         </div>
@@ -53,7 +55,9 @@ const StaffRevenue = () => {
                   labels={["Doanh thu", "Lương"]}
                   data={[item.revenue, item.salary]}
                 />
-                <p style={{ marginTop: 5 }}>{item.name}</p>
+                <p style={{ marginTop: 5, fontSize: 12, fontWeight: 700 }}>
+                  {item.name}
+                </p>
               </div>
             </div>
           ))}
