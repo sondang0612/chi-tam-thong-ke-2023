@@ -102,18 +102,18 @@ const ServicePieChart = ({ type }) => {
             justifyContent: "center",
           }}
         >
-          <div style={{ width: "25vw", textAlign: "center" }}>
+          <div style={{ width: "35vw", textAlign: "center" }}>
             <MyPieChart labels={dataHairs.labels} data={dataHairs.counts} />
             <p style={{ marginTop: 5 }}>Tóc</p>
           </div>
-          <div style={{ width: "25vw", textAlign: "center" }}>
+          <div style={{ width: "35vw", textAlign: "center" }}>
             <MyPieChart labels={dataMassa.labels} data={dataMassa.counts} />
             <p style={{ marginTop: 5 }}>Massage</p>
           </div>
-          <div style={{ width: "25vw", textAlign: "center" }}>
-            <MyPieChart labels={dataNails.labels} data={dataNails.counts} />
-            <p style={{ marginTop: 5 }}>Nail</p>
-          </div>
+        </div>
+        <div style={{ width: "35vw", textAlign: "center", marginTop: 5 }}>
+          <MyPieChart labels={dataNails.labels} data={dataNails.counts} />
+          <p style={{ marginTop: 5 }}>Nail</p>
         </div>
       </div>
     </>

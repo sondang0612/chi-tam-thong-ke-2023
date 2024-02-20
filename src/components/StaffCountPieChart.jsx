@@ -29,20 +29,19 @@ const StaffCountPieChart = ({ type }) => {
             justifyContent: "center",
           }}
         >
-          {data.slice(0, 4).map((item) => (
-            <div key={item.name} style={{ width: "20vw", textAlign: "center" }}>
+          {data.slice(0, 3).map((item) => (
+            <div key={item.name} style={{ width: "25vw", textAlign: "center" }}>
               <MyPieChart
-                labels={["Cắt", "Uốn", "Gội", "Sấy", "Tẩy", "Nhuộm"]}
+                labels={["Cắt", "Uốn", "Sấy", "Tẩy", "Nhuộm"]}
                 data={[
                   item.count.cat,
                   item.count.uon,
-                  item.count.goi,
                   item.count.say,
                   item.count.tay,
                   item.count.nhuom,
                 ]}
               />
-              <p style={{ marginTop: 5 }}>{item.name}</p>
+              <p style={{ marginTop: 5, fontWeight: 700 }}>{item.name}</p>
             </div>
           ))}
         </div>
@@ -54,22 +53,43 @@ const StaffCountPieChart = ({ type }) => {
             justifyContent: "center",
           }}
         >
-          {data.slice(4, 8).map((item) => (
-            <div key={item.name} style={{ width: "20vw", textAlign: "center" }}>
+          {data.slice(3, 6).map((item) => (
+            <div key={item.name} style={{ width: "25vw", textAlign: "center" }}>
               <MyPieChart
-                labels={["Cắt", "Uốn", "Gội", "Sấy", "Tẩy", "Nhuộm"]}
+                labels={["Cắt", "Uốn", "Sấy", "Tẩy", "Nhuộm"]}
                 data={[
                   item.count.cat,
                   item.count.uon,
-                  item.count.goi,
                   item.count.say,
                   item.count.tay,
                   item.count.nhuom,
                 ]}
               />
-              <p style={{ marginTop: 5 }}>{item.name}</p>
+              <p style={{ marginTop: 5, fontWeight: 700 }}>{item.name}</p>
             </div>
           ))}
+        </div>
+        <div
+          style={{
+            display: "flex",
+            marginTop: 20,
+            alignItems: "center",
+            justifyContent: "center",
+          }}
+        >
+          <div style={{ width: "25vw", textAlign: "center" }}>
+            <MyPieChart
+              labels={["Cắt", "Uốn", "Sấy", "Tẩy", "Nhuộm"]}
+              data={[
+                data[6].count.cat,
+                data[6].count.uon,
+                data[6].count.say,
+                data[6].count.tay,
+                data[6].count.nhuom,
+              ]}
+            />
+            <p style={{ marginTop: 5, fontWeight: 700 }}>{data[6].name}</p>
+          </div>
         </div>
       </div>
     </>

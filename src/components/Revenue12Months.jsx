@@ -58,7 +58,7 @@ const Revenue12Months = ({ title }) => {
             justifyContent: "center",
           }}
         >
-          <div style={{ width: "25vw", textAlign: "center" }}>
+          <div style={{ width: "30vw", textAlign: "center" }}>
             <MyPieChart
               labels={dataPhanloai2023.labels}
               data={dataPhanloai2023.counts}
@@ -93,7 +93,7 @@ const Revenue12Months = ({ title }) => {
             justifyContent: "center",
           }}
         >
-          <div style={{ width: "25vw", textAlign: "center" }}>
+          <div style={{ width: "30vw", textAlign: "center" }}>
             <MyPieChart
               labels={dataPhanloai2024.labels}
               data={dataPhanloai2024.counts}

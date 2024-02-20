@@ -46,7 +46,7 @@ const ProductPieChart = ({ type }) => {
           textAlign: "center",
         }}
       >
-        Thống kê Top 10 Sản phẩm về chăm sóc được sử dụng nhiều năm 2023
+        Thống kê Top Sản phẩm về chăm sóc được sử dụng nhiều năm 2023
       </p>
       <div
         style={{
@@ -65,11 +65,11 @@ const ProductPieChart = ({ type }) => {
             gap: 10,
           }}
         >
-          <div style={{ width: "30vw", textAlign: "center" }}>
+          <div style={{ width: "35vw", textAlign: "center" }}>
             <MyPieChart data={dataChamSoc.counts} labels={dataChamSoc.labels} />
             <p style={{ marginTop: 5 }}>Chung</p>
           </div>
-          <div style={{ width: "30vw", textAlign: "center" }}>
+          <div style={{ width: "35vw", textAlign: "center" }}>
             <MyPieChart
               data={dataChamSocNam.counts}
               labels={dataChamSocNam.labels}
@@ -77,7 +77,7 @@ const ProductPieChart = ({ type }) => {
             <p style={{ marginTop: 5 }}>Theo Nam</p>
           </div>
         </div>
-        <div style={{ width: "30vw", textAlign: "center" }}>
+        <div style={{ width: "35vw", textAlign: "center" }}>
           <MyPieChart
             data={dataChamSocNu.counts}
             labels={dataChamSocNu.labels}
